@@ -14,12 +14,14 @@ class point
 private:
 	int x;
 	int y;
+	
+public:
+	//************** make a new point ****************
 	void make_point(int x_cord, int y_cord)
 	{
 		x = x_cord;
 		y = y_cord;
 	}
-public:
 	//************** vector ADDITION -- + operator ****************
 	point operator+(point p)
 	{

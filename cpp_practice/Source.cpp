@@ -11,7 +11,7 @@
 
 using namespace std;
 
-//$$$$$$$$$$$$$$$$$$$ add fractions - uses fraction $$$$$$$$$$$$$$$$
+//$$$$$$$$$$$$$$$$$$$ add fractions - uses fraction $$$$$$$$$$$$$$
 
 fraction add_fractions(fraction fr1, fraction fr2)
 {
@@ -31,18 +31,52 @@ fraction add_fractions(fraction fr1, fraction fr2)
 	return result;
 }
 
+//%%%%%%%%%%%%%%%%%%%% temp functions for topcoder %%%%%%%%%%%
+
+double area_tri(point A, point B, point C)
+{
+	return abs(cross(A, B, C)) / 2;
+}
+
+//%%%%%%%%%%%%%%%%%%%% topcoder function %%%%%%%%%%%
+
+double findArea(vector <int> x, vector <int> y)
+{
+	double result = 0;
+	vector<point> vertices;
+	int n = x.size();
+	for (int i = 0; i < n; i++)
+	{
+		point temp;
+		temp.make_point(x[i], y[i]);
+		vertices.push_back(temp);
+	}
+	for (int i = 1; i < n - 1; i++)
+	{
+		result += area_tri(vertices[0], vertices[i], vertices[i + 1]);
+	}
+	return result;
+}
+
 //$$$$$$$$$$$$$$$$$$$$$$$  main  $$$$$$$$$$$$$$$$$$$$$$$$
 
 int main()
 {
-	point p1, p2,p3;
-	p1.get_point();
-	p2.get_point();
-	p3.get_point();
-
-	cout << "dis: "<<line_point_distance(p3,p1,p2,true)<<endl;
-
-
+	int n = 0;
+	double result = -1;
+	cout << "n: " << endl;
+	cin >> n;
+	vector<int> x, y;
+	cout << "enter all the points: " << endl;
+	for (int i = 0; i < n; i++)
+	{
+		int x_cord, y_cord;
+		cin >> x_cord >> y_cord;
+		x.push_back(x_cord);
+		y.push_back(y_cord);
+	}
+	result = findArea(x, y);
+	cout << result;
 
 	system("pause");
 	return 0;
