@@ -1,6 +1,8 @@
 #pragma once
 
 #include<iostream>
+#include<algorithm>
+
 
 using namespace std;
 
@@ -47,3 +49,38 @@ int from_decimal(int n, int base)
 	return result;
 }
 
+vector<int> factors(int n)
+{
+	vector <int> result;
+	int sqrt_n = sqrt(n);
+	for (int i = 1; i <= ceil(sqrt_n); i++)
+	{
+		if (n%i == 0)
+		{
+			result.push_back(i);
+			result.push_back(n / i);
+		}
+	}
+	sort(result.begin(), result.end());
+	return result;
+}
+
+bool is_prime(unsigned int n)
+{
+	int sqrt_n = ceil(sqrt(n));
+	if (n <= 1)
+		return false;
+	if (n == 2 || n == 3)
+		return true;
+	if (n % 2 == 0)
+		return false;
+	else
+	{
+		for (int i = 3; i <= sqrt_n; i+=2)
+		{
+			if (n%i == 0)
+				return false;
+		}
+	}
+	return true;
+}
