@@ -9,20 +9,25 @@ using namespace std;
 
 void solve()
 {
-	int n = 0;
+	unsigned long long n = 0;
 	cin >> n;
-	int x = floor((-3 + sqrt(9 + 8 * n)) / 2);
-	int u = 2 * n;
-	int w = ((x*(x + 1)) / 2) + 2 * (n - x);
-	int result = u < w ? u : w;
+	if (n == 1)
+	{
+		cout << 1 << endl;
+		return;
+	}
+	unsigned long long x = floor((-3 + sqrt(9 + 8 * n)) / 2);
+	unsigned long long by_walk = (n*(n + 1)) / 2;
+	unsigned long long by_elev = 2 * (n - x);
+	unsigned long long result = by_walk<by_elev ? by_walk : by_elev;
 	cout << result << endl;
 }
 
 int main()
 {
-	int n = 0;
+	/*int n = 0;
 	cin >> n;
-	for (int i = 0; i < n; i++)
+	for (int i = 0; i < n; i++)*/
 		solve();
 
 	system("pause");
