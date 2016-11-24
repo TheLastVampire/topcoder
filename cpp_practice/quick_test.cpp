@@ -7,6 +7,31 @@
 
 using namespace std;
 
+bool are_coprimes(unsigned a, unsigned b)
+{
+	if (((a | b) & 1) == 0)
+		return false;
+	while ((a & 1) == 0)
+		a >>= 1;
+	if (a == 1)
+		return true;
+	do
+	{
+		while ((b & 1) == 0)
+			b >>= 1;
+		if (b == 1)
+			return true;
+		if (a > b)
+		{
+			unsigned t = a;
+			a = b;
+			b = t;
+		}
+		b -= a;
+	} while (b != 0);
+	return false;
+}
+
 int gcd(int a, int b)
 {
 	if (a == 0 || b == 0 || a < 0 || b < 0)
@@ -64,38 +89,44 @@ int closest_or_min(vector<int>* a, int i, int j_left, int j_right)
 
 int main()
 {
-	int n = 0;
-	cin >> n;
-	vector<int>a;
-	a.push_back(-999);
-	for (int i = 0; i < n; i++)
-	{
-		int temp;
-		cin >> temp;
-		a.push_back(temp);
-	}
-	//ignore a[0] !!!!
-	for (int i = 1; i <= n; i++)
-	{
-		int j_left = look_left(&a, i);
-		int j_right = look_right(&a, i);
-		if (j_left != -1 && j_right != -1)
-		{
-			cout << closest_or_min(&a, i, j_left, j_right) << " ";
-		}
-		else
-		{
-			if (j_left != -1)
-				cout << j_left << " ";
-			else
-			{
-				if (j_right != -1)
-					cout << j_right << " ";
-				else
-					cout << -1 << " ";
-			}
-		}
-	}
+	//int n = 0;
+	//cin >> n;
+	//vector<int>a;
+	//a.push_back(-999);
+	//for (int i = 0; i < n; i++)
+	//{
+	//	int temp;
+	//	cin >> temp;
+	//	a.push_back(temp);
+	//}
+	////ignore a[0] !!!!
+	//for (int i = 1; i <= n; i++)
+	//{
+	//	int j_left = look_left(&a, i);
+	//	int j_right = look_right(&a, i);
+	//	if (j_left != -1 && j_right != -1)
+	//	{
+	//		cout << closest_or_min(&a, i, j_left, j_right) << " ";
+	//	}
+	//	else
+	//	{
+	//		if (j_left != -1)
+	//			cout << j_left << " ";
+	//		else
+	//		{
+	//			if (j_right != -1)
+	//				cout << j_right << " ";
+	//			else
+	//				cout << -1 << " ";
+	//		}
+	//	}
+	//}
+
+
+	unsigned a = 8, b = 16;
+	cin >> a>>b;
+
+	cout << are_coprimes(a,b);
 
 	system("pause");
 	return 0;

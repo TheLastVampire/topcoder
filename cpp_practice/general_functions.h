@@ -84,3 +84,28 @@ bool is_prime(unsigned int n)
 	}
 	return true;
 }
+
+bool are_coprimes(unsigned a, unsigned b)
+{
+	if ((a | b) & 1 == 0)
+		return false;
+	while ((a&1)==0)
+		a >>= 1;
+	if (a == 1)
+		return true;
+	do
+	{
+		while ((b&1)==0)
+			b >>= 1;
+		if (b == 1)
+			return true;
+		if (a > b)
+		{
+			unsigned t = a;
+			a = b;
+			b = t;
+		}
+		b -= a;
+	} while (b!=0);
+	return false;
+}
