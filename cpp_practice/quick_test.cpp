@@ -50,7 +50,7 @@ int look_left(vector<int>* a, int i)
 		return -1;
 	for (int j = i - 1; j >= 1; j--)
 	{
-		if (gcd((*a)[i], (*a)[j]) > 1)
+		if (!are_coprimes((*a)[i], (*a)[j]))
 		{
 			return j;
 		}
@@ -65,7 +65,7 @@ int look_right(vector<int>* a, int i)
 		return -1;
 	for (int j = i + 1; j <= n; j++)
 	{
-		if (gcd((*a)[i], (*a)[j]) > 1)
+		if (!are_coprimes((*a)[i], (*a)[j]) )
 		{
 			return j;
 		}
@@ -89,44 +89,40 @@ int closest_or_min(vector<int>* a, int i, int j_left, int j_right)
 
 int main()
 {
-	//int n = 0;
-	//cin >> n;
-	//vector<int>a;
-	//a.push_back(-999);
-	//for (int i = 0; i < n; i++)
-	//{
-	//	int temp;
-	//	cin >> temp;
-	//	a.push_back(temp);
-	//}
-	////ignore a[0] !!!!
-	//for (int i = 1; i <= n; i++)
-	//{
-	//	int j_left = look_left(&a, i);
-	//	int j_right = look_right(&a, i);
-	//	if (j_left != -1 && j_right != -1)
-	//	{
-	//		cout << closest_or_min(&a, i, j_left, j_right) << " ";
-	//	}
-	//	else
-	//	{
-	//		if (j_left != -1)
-	//			cout << j_left << " ";
-	//		else
-	//		{
-	//			if (j_right != -1)
-	//				cout << j_right << " ";
-	//			else
-	//				cout << -1 << " ";
-	//		}
-	//	}
-	//}
+	int n = 0;
+	cin >> n;
+	vector<int>a;
+	a.push_back(-999);
+	for (int i = 0; i < n; i++)
+	{		
+		int temp;
+		cin >> temp;
+		a.push_back(temp);
+	}
+	//ignore a[0] !!!!
+	for (int i = 1; i <= n; i++)
+	{
+		int j_left = look_left(&a, i);
+		int j_right = look_right(&a, i);
+		if (j_left != -1 && j_right != -1)
+		{
+			cout << closest_or_min(&a, i, j_left, j_right) << " ";
+		}
+		else
+		{
+			if (j_left != -1)
+				cout << j_left << " ";
+			else
+			{
+				if (j_right != -1)
+					cout << j_right << " ";
+				else
+					cout << -1 << " ";
+			}
+		}
+	}
 
 
-	unsigned a = 8, b = 16;
-	cin >> a>>b;
-
-	cout << are_coprimes(a,b);
 
 	system("pause");
 	return 0;
