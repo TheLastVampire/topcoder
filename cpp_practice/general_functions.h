@@ -109,3 +109,22 @@ bool are_coprimes(unsigned a, unsigned b)
 	} while (b!=0);
 	return false;
 }
+
+//sieve - find all primes in [0,n] 
+//params - p: pointer to vector<bool>a(n+1,true) -- after exec, this vector holds a[i]=true for all primes i in [0,n]
+void sieve(unsigned n, vector<bool>* p)
+{
+	vector<bool>&a = *p;
+	a[0] = false;
+	a[1] = false;
+	for (unsigned i = 2; i * 2 <= n; i++)
+		a[i * 2] = false;
+	for (unsigned i = 3; i <= n; i += 2)
+	{
+		if (a[i])
+		{
+			for (unsigned j = 2; j*i <= n; j++)
+				a[j*i] = false;
+		}
+	}
+}
