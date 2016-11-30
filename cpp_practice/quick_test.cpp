@@ -37,6 +37,7 @@ void check(unsigned a, unsigned b, pair<unsigned, unsigned>* p)
 		greater = sum_a > sum_b ? a : b;
 		sum_greater = greater == a ? sum_a : sum_b;
 	}
+	cout << "gr_sum: " << sum_greater << endl;
 	if (sum_greater == result.second)
 	{
 		result.first == result.first < greater ? result.first : greater;
@@ -44,28 +45,32 @@ void check(unsigned a, unsigned b, pair<unsigned, unsigned>* p)
 	else
 	{
 		result.first = result.second > sum_greater ? result.first : greater;
-		result.second = result.first == a ? sum_a : sum_b;
+		result.second = result.first == greater ? sum_greater : result.second;
 	}
 }
 
 int main()
 {
 	unsigned n = 0;
-	cin >> n;
-	pair<unsigned, unsigned>result;
-	result.first = 1;
-	result.second = 1;
-	pair<unsigned, unsigned>* p = &result;
-	unsigned sq_root = floor(sqrt(n));
-	for (unsigned i = 1; i <= sq_root; i++)
-	{
-		if (n%i == 0)
+	while (true) {
+		cout << "Enter n:" << endl;
+		cin >> n;
+		pair<unsigned, unsigned>result;
+		result.first = 1;
+		result.second = 1;
+		pair<unsigned, unsigned>* p = &result;
+		unsigned sq_root = floor(sqrt(n));
+		for (unsigned i = 1; i <= sq_root; i++)
 		{
-			check(i, n / i, p);
+			if (n%i == 0)
+			{
+				cout << i << " x " << (n / i) << " ";
+				check(i, n / i, p);
+			}
 		}
-	}
 
-	cout << result.first;
+		cout << result.first << endl;
+	}
 
 	system("pause");
 	return 0;
