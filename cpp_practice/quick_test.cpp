@@ -9,63 +9,52 @@
 
 using namespace std;
 
-unsigned digit_sum(unsigned n)
+void sieve(unsigned n,vector<bool>* p)
 {
-	unsigned sum = 0;
-	while (n > 0)
+	vector<bool>&a = *p;
+	a[0] = false;
+	a[1] = false;
+	for (unsigned i = 2; i * 2 <= n; i++)
+		a[i * 2] = false;
+	for (unsigned i = 3; i <= n; i += 2)
 	{
-		sum += (n % 10);
-		n /= 10;
-	}
-	return sum;
-}
-
-void check(unsigned a, unsigned b, pair<unsigned, unsigned>* p)
-{
-	pair<unsigned, unsigned>& result = *p;
-	unsigned sum_a = digit_sum(a);
-	unsigned sum_b = digit_sum(b);
-	unsigned greater = 0;
-	unsigned sum_greater = 0;
-	if (sum_a == sum_b)
-	{
-		greater = a < b ? a : b;
-		sum_greater = greater == a ? sum_a : sum_b;
-	}
-	else
-	{
-		greater = sum_a > sum_b ? a : b;
-		sum_greater = greater == a ? sum_a : sum_b;
-	}
-	if (sum_greater == result.second)
-	{
-		result.first == result.first < greater ? result.first : greater;
-	}
-	else
-	{
-		result.first = result.second > sum_greater ? result.first : greater;
-		result.second = result.first == a ? sum_a : sum_b;
+		if (a[i])
+		{
+			for (unsigned j = 2; j*i <= n; j++)
+				a[j*i] = false;
+		}
 	}
 }
 
 int main()
 {
-	unsigned n = 0;
-	cin >> n;
-	pair<unsigned, unsigned>result;
-	result.first = 1;
-	result.second = 1;
-	pair<unsigned, unsigned>* p = &result;
-	unsigned sq_root = floor(sqrt(n));
-	for (unsigned i = 1; i <= sq_root; i++)
+	unsigned n, m, max, min,count = 0;
+	cin >> n >> m;
+	max = n > m ? n : m;
+	min = max == n ? m : n;
+	m = 0;
+	n = 0;
+	vector<bool>a(max + 1, true);
+	sieve(max, &a);
+	for (unsigned i = min; i <= max; i++)
 	{
-		if (n%i == 0)
+		if (a[i])
 		{
-			check(i, n / i, p);
+			if (m > 0)
+			{
+				n = i;
+				if (n - m == 2)
+				{
+					count++;
+				}
+				m = n;
+				n = 0;
+			}
+			else
+				m = i;
 		}
 	}
-
-	cout << result.first;
+	cout << count;
 
 	system("pause");
 	return 0;
