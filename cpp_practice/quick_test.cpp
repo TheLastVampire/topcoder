@@ -12,43 +12,50 @@ using namespace std;
 ifstream read;
 ofstream write;
 
-unsigned MOD = 1000000007;
-
-void print_fib(unsigned a, unsigned b, unsigned n)
+int max_arr(vector<int>* v)
 {
-	map<unsigned, unsigned> fib;
-	fib[0] = a%MOD;
-	fib[1] = b%MOD;
-	for (unsigned i = 2; i <= n; i++)
-	{
-		fib[i] = (fib[i - 1] + fib[i - 2])%MOD;
-	}
-	cout << fib[n] << endl;
+	vector<int>& a = *v;
+	int max = 0, n=a.size();
+	for (int i = 0; i < n; i++)
+		if (a[i] > max)
+			max = a[i];
+	return max;
 }
 
 void solve()
 {
-	unsigned a = 0, b = 0, n = 0;
-	cin >> a >> b >> n;
-	switch (n)
+	int n = 0;
+	cin >> n;
+	vector<int>a;
+	for (int i = 0; i < n; i++)
 	{
-	case(0):
-		cout << a << endl;
-		break;
-	case(1):
-		cout << b << endl;
-		break;
-	default:
-		print_fib(a, b, n);
-		break;
+		int temp=0;
+		cin >> temp;
+		a.push_back(temp);
 	}
+	vector<int>lcs(n, 1);
+	for (int i = 1; i < n; i++)
+	{
+		for (int j = 0; j < i; j++)
+		{
+			if (a[j] < a[i])
+			{
+				if (lcs[i] < lcs[j] + 1)
+				{
+					lcs[i] = lcs[j] + 1;
+				}
+			}
+		}
+	}
+	//lcs array ready
+	cout << max_arr(&lcs)<<endl;
 }
 
 int main()
 {
-	unsigned n = 0;
+	int n = 0;
 	cin >> n;
-	for (unsigned i = 0; i < n; i++)
+	for (int i = 0; i < n; i++)
 		solve();
 
 	system("pause");
