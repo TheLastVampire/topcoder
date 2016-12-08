@@ -2,6 +2,7 @@
 
 #include<iostream>
 #include<algorithm>
+#include <time.h>
 
 
 using namespace std;
@@ -139,4 +140,20 @@ unsigned digit_sum(unsigned n)
 		n /= 10;
 	}
 	return sum;
+}
+
+void time_n_squared(int n)
+{
+	clock_t start, finish;
+
+	start = clock();
+	for (int i = 0; i<n; i++)
+	{
+		for (int j = 0; j<n; j++)
+		{
+
+		}
+	}
+	finish = clock();
+	cout << ((double)(finish - start)) / CLOCKS_PER_SEC << endl;
 }
