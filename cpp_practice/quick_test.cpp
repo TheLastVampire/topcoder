@@ -14,30 +14,81 @@ using namespace std;
 ifstream read;
 ofstream write;
 
-void solve()
+bool process_guid(string* str, int pos, vector<string>* v, set<string>* s)
 {
-	int x1, y1, x2, y2, count = 0;
-	cin >> x1 >> y1 >> x2 >> y2;
-	if (x1 == x2)
-		count = abs(y2 - y1) - 1;
+	string& line = *str;
+	vector<string>& guid = *v;
+	set<string>& guid_set = *s;
+
+	string gu = "";
+	for (int i = pos + 1; i < line.length() && line[i] != '}'; i++)
+	{
+		gu.append(1, line[i]);
+	}
+
+	if (guid_set.find(gu) != guid_set.end())
+	{
+		cout << "DUPLICATE " << gu << endl;
+		return true;
+	}
 	else
 	{
-		int min = x1 < x2 ? x1 : x2;
-		int max = x1 > x2 ? x1 : x2;
-		for (int i = min + 1; i < max; i++)
-			if (abs((y2 - y1)*(i - x1)) % abs(x2 - x1) == 0)
-				count++;
+		guid.push_back(gu);
+		guid_set.insert(gu);
+		return false;
 	}
-	cout << count << endl;
+
+}
+
+bool process_line(string* str, vector<string>* v, set<string>* s)
+{
+	string& line = *str;
+	vector<string>& guid = *v;
+	set<string>& guid_set = *s;
+
+	if (line.find('{') != line.npos)
+	{
+		for (int ind = 0; ind < line.length(); ind++)
+		{
+			if (line[ind] == '{')
+				if (process_guid(&line, ind, &guid, &guid_set))
+				{
+					return true;
+				}
+				else
+				{
+					return false;
+				}
+		}
+	}
+	else
+	{
+		return false;
+	}
 }
 
 int main()
 {
-	int n = 0;
-	cin >> n;
+	vector<string>guid;
+	set<string>guid_set;
+	read.open("test.txt");
+	int i = 1;
+	while (!read.eof())
+	{
+		string line = "";
+		getline(read, line);
+		cout << "line " << i << " ..." << endl;
+		if (process_line(&line, &guid, &guid_set))
+		{
+			char temp;
+			cin >> temp;
+			break;
 
-	for (int i = 0; i < n; i++)
-		solve();
+		}
+		i++;
+	}
+
+	read.close();
 
 
 	system("pause");
