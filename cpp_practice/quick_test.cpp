@@ -16,46 +16,37 @@ ofstream write;
 
 int main()
 {
-	int n = 0;
-	cin >> n;
-	vector<int>v(n, 0);
-	for (int i = 0; i < n; i++)
-		cin >> v[i];
-	//done reading v
-	sort(v.begin(), v.end());
-	int ans_1 = -1, ans_2 = -1;
-	if (n == 1)
+	read.open("test.txt");
+	vector<string>lines;
+	int i = 1;
+	while (!read.eof())
 	{
-		ans_1 = v[0] * 2;
-		ans_2 = 1;
+		cout << "reading line " << i << endl;
+		string line = "";
+		getline(read, line);
+		lines.push_back(line);
+		i++;
 	}
-	else
+	read.close();
+	i = 1;
+	for (vector<string>::iterator it = lines.begin(); it != lines.end(); it++, i++)
 	{
-		int min = v[0];
-		int count = 1;
-		for (int i = 1; i < v.size(); i++)
-			if (v[i] == min)
-				count++;
-			else
-				break;
-		ans_2 = count;
-		if (count > 1)
-		{
-			ans_1 = min*2;
-		}
-		else
-		{
-			if (count = v.size())
-			{
-				ans_1 = min;
-			}
-			else
-			{
-				ans_1 = min * 2 < v[count] ? min * 2 : v[count];
-			}
-		}
+		cout << "changing line " << i << endl;
+		(*it).insert(0, "\"");
+		(*it) += "\",";
+
 	}
-	cout << ans_1 << " " << ans_2 << endl;
+	i = 1;
+	write.open("result.txt");
+	write.clear();
+	for (vector<string>::iterator it = lines.begin(); it != lines.end(); it++, i++)
+	{
+		cout << "writimg line " << i << endl;
+		write << *it << endl;
+
+	}
+	write.close();
+	cout << "done!" << endl;
 
 	system("pause");
 	return 0;

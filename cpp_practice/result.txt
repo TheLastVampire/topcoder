@@ -1,950 +1,950 @@
-'Angioplasty'
-'Angioplasty, Laser'
-'Artificial Heart Valve Surgery'
-'Atherectomy'
-'Bypass Surgery'
-'Cardiomyoplasty'
-'Coronary Artery By Pass'
-'Heart Transplant'
-'Minimally Invasive Heart Surgery'
-'Mitral Balloon Valvuloplasty'
-'Radiofrequency Ablation'
-'Removal Of Sternal Wire'
-'Stent Procedure'
-'Transmyocardial Revascularization'
-'Valve Replacement'
-'Breast - Simple Mastectomy, Bilateral'
-'Breast - Simple Mastectomy, Unilateral'
-'Breast Biopsy - Hook Wire'
-'Breast Biopsy With Frozen Section'
-'Breast Michrodochotomy'
-'Breast Reconstruction - Delay Procedure'
-'Breast Reconstruction - Nipple Reconstruction - Unilateral'
-'Breast Reconstruction After Mastectomy - Muscle Transposition - Unilateral'
-'Breast Reconstruction After Mastectomy - Tissue Expander - Unilateral'
-'Breast Reconstruction After Mastectomy- Prosthetic Insert - Unilateral'
-'Breast, Male - Bilateral Mastectomy'
-'Breast, Male - Unilateral Mastectomy'
-'Correction Of Nipple Inversion - Bilateral'
-'Correction Of Nipple Inversion - Unilateral'
-'Extended Simple Mastectomy With Axillary Dissection - Bilateral'
-'Extended Simple Mastectomy With Axillary Dissection - Unilateral'
-'Open Breast Biopsy'
-'Partial Mastectomy'
-'Partial Mastectomy Including Sentinel Node Biopsy'
-'Sentinel Node Biopsy'
-'Wide Local Excision With Axillary Dissection, Breast - Unilateral'
-'Wide Local Excision With Axillary Dissection, Breasts - Bilateral'
-'Anal Dilatation'
-'Anal Or Perineal Graciloplasty'
-'Anal Sphincterotomy'
-'Anorectal Physiology Study'
-'Anterior Resection Of Rectum - High With Intraperitoneal Anastomosis'
-'Anterior Resection Of Rectum - Low With Coloanal Anastomosis'
-'Anterior Resection Of Rectum - Low With Extraperitoneal Anastomosis'
-'Anterior Resection Of Rectum - Ultra Low With Coloanal Anastomosis'
-'Appendicectomy'
-'Banding Of Haemorrhoids'
-'Biopsy of Liver - Ultrasound Guidance'
-'Cholangiogram'
-'Cholecystectomy'
-'Cholecystectomy And Choledochotomy Including Any Choledonchoscopy'
-'Cholecystectomy With Operative Cholangiogram'
-'Colectomy - Total With Ileo-Rectal Anastomosis'
-'Colonoscopy'
-'Colonoscopy With Biopsy'
-'Colonoscopy With Removal Of Polyps'
-'Colostomy - Closure'
-'Colostomy - Formation'
-'Colotomy - For Polyp Or Wedge Resection Of Colon For Polyp'
-'Complicated Repair Of Anal Fistula'
-'E.R.C.P.'
-'E.R.C.P. And Sphincterotomy Or Stenting'
-'Examination Of Colon Up To Splenic Fixture (Short Colonoscopy With Biopsy)'
-'Excision Of Anal Skin Tag'
-'Excision Of Pancreatic Tumour'
-'Excision Of Pilonidal Sinus'
-'Formalin Treatment For Radiation Proctitis'
-'Freeing Of Major Abdominal Adhesions'
-'Freeing Of Minor Abdominal Adhesions'
-'Gastrectomy - Partial'
-'Gastrectomy - Total (Abdominal, Thoracic, Or Combined Approach)'
-'Gastroscopy (With Or Without Biopsy)'
-'Gastroscopy And Colonoscopy'
-'Haemorrhoidectomy Including Sigmoidoscopy'
-'Haemorrhoids - External'
-'Hepatectomy'
-'Hepatic Cryotherapy'
-'Hiatus Hernia Repair'
-'Ileostomy Formation'
-'Implantation Of Inflatable Sphincter -Anal'
-'Infrared Coagulation'
-'Injection Of Haemorrhoids'
-'Injection Of Haemorrhoids And Sigmoidoscopy'
-'Insertion Of Oesaphageal Stent'
-'Laparoscopic Appendicectomy'
-'Laparoscopic Cholecystectomy'
-'Laparoscopic Cholecystectomy And Nissan Repair'
-'Laparoscopic Cholecystectomy Converted To Open'
-'Laparoscopic Cholecystectomy Converted To Open With Operative'
-'Laparoscopic Cholecystectomy With Operative Cholangiogram'
-'Laparoscopic Freeing Of Major Abdominal Adhesions'
-'Laparoscopic Freeing Of Minor Abdominal Adhesions'
-'Laparoscopic Hiatus Hernia Repair'
-'Laparoscopic Splenectomy'
-'Laparotomy'
-'Laparotomy Including Appendicectomy'
-'Left Hemicolectomy - With Anastomosis'
-'Left Hemicolectomy - With Formation Of Stoma'
-'Liver Lobectomy (Right Or Left)'
-'Mobilisation'
-'Needle Biopsy Of Liver'
-'Non-Endoscopic Dilation Of Oesophagus'
-'Oesophagael Dilation With Gastroscopy'
-'Oesophageal 24Ph Monitoring'
-'Oesophageal Manometry Test'
-'Oesophagectomy - One Stage'
-'Oesophagectomy By Abdominal And Transthoracic Mobilisation, With'
-'Oesophagus - Hellers Operation'
-'Pancreas - Total Excision Of, Or Pancreatico-Duodenectomy'
-'Pilonidal Abscess, Including Drainage'
-'Prolapse Of Rectum - Abdominal Rectopexy'
-'Prolapse Of Rectum - Excision Of Rectal Mucosa (Including Sigmoidoscopy)'
-'Rectosigmoidectomy With Formation Of Stoma'
-'Repair Of Pancreatic Duct Sphincter'
-'Repair Of Sphincter Of Oddi'
-'Resection Of Rectum - Abdominoperineal'
-'Revision Colostomy'
-'Right Hemicolectomy - With Anastomosis'
-'Right Hemicolectomy - With Formation Of Stoma'
-'Sigmoidcolectomy With Anastomosis'
-'Sigmoidcolectomy With Formation of Stoma'
-'Sigmoidoscopy And Anal Fistula'
-'Sigmoidoscopy Including Consultation'
-'Sigmoidoscopy With Biopsy'
-'Simple Repair Of Anal Fistula'
-'Small Bowel Resection'
-'Sphincteroplasty'
-'Splenectomy'
-'Thoracic Oesophagogastric Anastomosis'
-'Total Gastrectomy And Oesaphagectomy By Abdominal Transthoracic'
-'Toupet Fundoplication - Adult - Laparoscopic'
-'Toupet Fundoplication - Adult - Open'
-'Toupet Fundoplication - Paediatric'
-'Transanal Excision Of Rectal Tumour'
-'Whipples Procedure'
-'Biopsy Of Tongue'
-'Branchial Fistula'
-'Excision Of Sub-Mandibular Gland'
-'Excision Of Thyro-Glossal Cyst Or Fistula'
-'Glands - Supra Hyoid Dissection Of Neck (Selective - Supramohyoid)'
-'Lymph Node Dissection Neck (Other)'
-'Parathyroidectomy'
-'Radical Neck Dissection'
-'Salivary Gland - Removal Duct Calculus'
-'Superficial Parotidectomy'
-'Thyroidectomy Including Para-Thyroid Transplant'
-'Thyroplasty'
-'Tongue - Partial Removal, Hemi-Glossectomy'
-'Total (Or Sub-Total) Thyroidectomy'
-'Total Parotidectomy (Including Superficial)'
-'Total Thyroid Lobectomy'
-'Bilateral Hernia - Femoral Repair'
-'Bilateral Hernia - Inguinal Repair'
-'Bilateral Inguinal Herniotomies - Under 3 Years'
-'Bilateral Laparoscopic Hernia - Femoral'
-'Bilateral Laparoscopic Hernia - Inguinal'
-'Hernia - Under 3 Years - Strangulated'
-'Inguinal Herniotomy - Under 3 Years'
-'Repair Of Complicated Incisional Hernia'
-'Repair Of Epigastric Hernia'
-'Repair Of Incisional Hernia'
-'Repair Of Major Umbilical Hernia - Adult, Para Umbilical Hernia'
-'Repair Of Minor Umbilical Hernia - Adult, Para Umbilical Hernia'
-'Repair Of Umbilical Hernia - Under 10 Years'
-'Unilateral Hernia - Femoral Repair'
-'Unilateral Hernia - Inguinal Repair'
-'Unilateral Laparoscopic Hernia - Femoral'
-'Unilateral Laparoscopic Hernia - Inguinal'
-'Abdominal Paracentesis Or Pleural Tap'
-'Axillary Node Dissection'
-'Bilateral Orchidopexy'
-'Central Vein Catheterisation'
-'Chest Biopsy, Thoracotomy'
-'Circumcision'
-'Drainage of Pericardial Effusion'
-'Epididymectomy - Unilateral'
-'Excision Thymoma With Sternotomy'
-'Hydrocele Repair, Epididymal Cyst Excision, Spermatocele, Or'
-'Inguinal Herniotomy - Under 3 Years'
-'Inguinal Node Dissection'
-'Insertion Of Port-A-Cath'
-'Lung Biopsy - Bronchoscopic'
-'Lung Biopsy - Bronchoscopic - Fibreoptic'
-'Lung Biopsy - Open'
-'Lung Biopsy - Percutaneous'
-'Lung Exploration'
-'Lung, Lobectomy'
-'Mediastenoscopy'
-'Percutaneous Central Vein Catheterisation'
-'Pericardiocentesis'
-'Removal Of Port-A-Cath'
-'Thorascopic Pleurodesis Stapling Bullae'
-'Unilateral Orchidopexy'
-'Abscess - Large, Or Extensive Cellulitis Requiring Incision Or Drainage'
-'Abscess - Small, Or Cellulitis Requiring Incision And Drainage With Local'
-'Anaesthetic'
-'Apocrinectomy - Bilateral'
-'Aspiration Of Cyst / Needle Biopsy (Breast)'
-'Aspiration Of Small Haematoma'
-'Biopsy Of Skin And Subcutaneous Tissue'
-'Drainage Of Haematoma'
-'Excision Of Cyst, Tumour , Superficial (Large)'
-'Excision Of Cyst, Tumour , Superficial (Small)'
-'Excision Of Cyst, Tumour Or Scar, Involving Deeper Structures'
-'Excision Of Ganglion - Other'
-'Excision Of Ganglion - Wrist / Hand'
-'Removal Of Foreign Body With G.A.'
-'Tumour, Benign Or Malignant Requiring Wide Excision'
-'Tumour, Benign Or Malignant Requiring Wide Excision With Skin Graft'
-'Vermilionectomy'
-'Cervix - Amputation Or Reconstruction'
-'Cervix - Biopsy Under Anaesthetic'
-'Cervix - Suture Of - Shirodkar's Operation'
-'Cervix Cauterisation Of - With Anaesthesia'
-'Colposcopy With Biopsy'
-'Cone Biopsy'
-'Cryo Cautery Of Cervix'
-'Description of Surgical Procedure'
-'Effective Date: 1 June 2005'
-'Laser Ablation'
-'Laser Cone Biopsy'
-'Lletz Loop'
-'Median Total'
-'Revision of episiotomy scar (not cosmetic)'
-'Biopsy Of Ovary'
-'Diagnostic Laparoscopy'
-'Endometriosis Surgery - Severe (Laparotomy)'
-'Fallopian Tubes - Ovaries'
-'Laparoscopic Diathermy To Endometriosis'
-'Laparoscopic Division Of Adhesions To Ovaries'
-'Laparoscopic Endometriosis Surgery - Moderate'
-'Laparoscopic Endometriosis Surgery - Severe'
-'Laparoscopic Endometriosis Surgery- Mild'
-'Laparoscopic Oopherectomy - Bilateral'
-'Laparoscopic Oopherectomy - Unilateral'
-'Laparoscopic Ovarian Cystectomy - Bilateral'
-'Laparoscopic Ovarian Cystectomy - Unilateral'
-'Laparoscopic Salpingo-Oopherectomy, Bilateral'
-'Laparoscopic Unilateral Oopherectomy With Bilateral Salpingectomy'
-'Laparoscopy With Dye Study'
-'Laparoscopy With Hysteroscopy D&C'
-'Open Oopherectomy - Bilateral'
-'Open Oopherectomy - Unilateral'
-'Open Ovarian Cystectomy - Bilateral'
-'Open Ovarian Cystectomy - Unilateral'
-'Salpingectomy'
-'Salpingectomy, Laparoscopic'
-'Salpingo Or Salpingolysis'
-'Salpingo-Oopherectomy, Bilateral'
-'Salpingo-Oophorectomy'
-'Salpingo-Oophorectomy, Laparoscopic'
-'Salpingostomy - Laparoscopic'
-'Unilateral Oopherectomy With Bilateral Salpingectomy'
-'Colposuspension - Open'
-'Cystourethroscopy'
-'Laparoscopic Colposuspension'
-'Pubo-Vaginal Sling Operation For Incontinence'
-'Ventro-Suspension'
-'Abdominal Hysterectomy'
-'Abdominal Hysterectomy With BSO'
-'Abdominal Myomectomy'
-'Abscess - Pelvic, Drainage Of, Via Fornices'
-'D & C With Biopsy Of Cervix'
-'D & C With Reuben's Test'
-'D&C After Miscarriage'
-'D&C With Cone Biopsy Of Cervix'
-'D&C With Removal Of Polyp - Cervix'
-'D&C With Removal Of Polyp - Uterus'
-'Endometrial Biopsy (Pipelle)'
-'Endometrial Resection / Ablation'
-'Hysterectomy - Classical, Abdominal, Semm Laparoscopic, Incl Asst Fee'
-'Hysterectomy - Total And Marshall Marchetti Procedure'
-'Hysteroscopy And Removal Of Endometrial Polyp With D&C'
-'Hysteroscopy And Removal Of Submucous Fibroid With D&C'
-'Hysteroscopy D&C'
-'Laparoscopic Myomectomy'
-'Laparoscopic Uterine Nerve Ablation'
-'Laparoscopic Vaginal Hysterectomy With Division Of Adhesions'
-'Laparoscopically Assisted Vaginal Hysterectomy'
-'Laparoscopically Assisted Vaginal Hysterectomy With BSO'
-'Laparoscopy With D & C'
-'Laparotomy - Exploratory'
-'Omentectomy +/- Nodes'
-'Pelvic Glands - Radical Dissection Of'
-'Total Abdominal Hysterectomy & Bilateral Salpingo-Oopherectomy &'
-'Uterine Balloon Therapy'
-'Vaginal Hysterectomy'
-'Vaginal Hysterectomy With Pelvic Repair'
-'Wertheims Hysterectomy'
-'Anterior And Posterior Colporrhaphy'
-'Anterior Colporrhaphy'
-'Colporrhaphy - Anterior And Amputation Of Cervix'
-'Examination Under Anaesthetic'
-'Excision Of Vaginal Lesion'
-'Laparoscopic Pelvic Floor Repair'
-'Open Sacrocolpopexy, Levatoplasty'
-'Posterior Colporrhaphy'
-'Posterior Colporrhaphy And Enterocele'
-'Recto-Vaginal Fistula - Repair Of'
-'Vaginal Anterior Mesh Repair'
-'Vaginal Posterior Mesh Repair'
-'Vault Repair, i.e. Sacrospinous Fixation'
-'Vesico-Vaginal Fistula - Repair Of'
-'Bartholins Cyst / Abscess Surgery'
-'Fenton's Procedure'
-'Incision Of Hymen'
-'Multiple Vulval Biopsy'
-'Separation Of Labial Fusion'
-'Simple Excision Vulval Lesion - Bilateral'
-'Simple Excision Vulval Lesion - Unilateral'
-'Simple Vulvectomy'
-'Vulva'
-'Vulva - Radical Excision Of, With Glands'
-'Vulval Biopsy - Office'
-'Warts - Vulval, Cauterisation Or Laser'
-'Chemical Sympathectomy'
-'Core Biopsy With Ultrasound'
-'CT Guided Biopsy'
-'CT Guided Drainage'
-'Fine Needle Aspiration (Other Than Breast) Under Ultrasound'
-'Fluoroscopy (in conjunction with surgical procedure)'
-'Lumbar Chemical Sympathectomy'
-'Trans Perineal Prostate Biopsy'
-'Transrectal Ultrasound And Biopsy'
-'Ultrasound Breast Cyst Aspiration (Including Fine Needle)'
-'Acoustic Neuroma'
-'Craniectomy, Posterior Fossa Craniectomy'
-'Craniotomy- Re-Opening'
-'Micro Vascular Decompression Trigeminal Nerve, Trigeminal Neuralgia'
-'Pituitary Adenoma'
-'Removal Of Spinal Intradural Lesion'
-'Repair Of Encephalocele'
-'Spinal Rhizolysis'
-'Translabrinthine Excision Of Tumour'
-'Cataract'
-'Cataract Extraction And Iol With Anterior Vitrectomy'
-'Cataract Extraction With Iol With Trabeculectomy (Including First 5 Post-Op'
-'Extracapsular Cataract Extraction With Insertion Of Artificial Lens'
-'Iol Implant With Anterior Vitrectomy'
-'Lens Extraction'
-'Phacoemulsification Cataract Extraction With Insertion Of Artificial Lens'
-'Secondary Iol Implant'
-'Yag Laser Capsulotomy'
-'Anterior Stromal Puncture'
-'Cornea Or Sclera - Removal Of Foreign Body'
-'Corneal Surgery'
-'Keratectomy'
-'Penetrating Keratoplasty Or Similar'
-'Phototherapeutic Keratectomy (On Application To Chief Medical Officer,'
-'Excision Of Pinguecula'
-'Excision Of Pterygium'
-'Excision Of Pterygium And Graft'
-'Extraocular Operations On Globe'
-'Drainage (Glaucoma), Molteno Drain Or Similar Procedure'
-'Glaucoma'
-'Iridectomy Or Iridotomy'
-'Laser Iridotomy'
-'Laser Trabeculoplasty'
-'Trabeculectomy (Including First 5 Post-Op Visits)'
-'Trabeculectomy With Cytotoxic Agent (Including First 5 Post-Op Visits)'
-'Autogenous Grafts - Major'
-'Autogenous Grafts - Minor'
-'Correction Of Ptosis'
-'Correction Of Ptosis - Bilateral'
-'Dacryocystorhinostomy'
-'Entropion / Ectropion - Repair'
-'Intermediate Eyelid Surgery'
-'Lacrimal Intubation - Unilateral'
-'Lacrimal Passage - Probing Of'
-'Lids And Adnexa'
-'Major Eyelid Surgery'
-'Minor Eyelid Surgery'
-'Removal Of Tarsal Cyst'
-'Enucleation Of Eye'
-'Enucleation Of Eye With Implant'
-'Evisceration Of Globe'
-'Evisceration Of Globe - With Implant'
-'Orbit'
-'Orbitotomy'
-'Extraocular Muscles - Strabismus - >= Three Muscles'
-'Extraocular Muscles - Strabismus - One Or Two Muscles'
-'Extraocular Muscles - Strabismus - Three Or More Muscles'
-'Placement Of Adjustable Suture During Strabismus Surgery (Including'
-'Post-Operative Adjustments)'
-'Strabismus - >= Three Muscles - Reoperation'
-'Strabismus - One Or Two Muscles - Reoperation'
-'Strabismus - Three Or More Muscles - Reoperation'
-'Strabismus Surgery'
-'Intraocular Vitreal Injection'
-'Macula Hole Eye Surgery'
-'Pan Retinal Laser'
-'Photocoagulation Of Retina'
-'Removal Of Silicone Oil'
-'Repair Of Detached Retina - Cryotherapy Or Diathermy'
-'Retinal Cryotherapy'
-'Retinal Detachment Repair With Scleral Buckle'
-'Retinal Membrane Peeling'
-'Vitrectomy Alone (Removal Of Vitreous)'
-'Vitrectomy With Macular Epiretinal Membrane Peel'
-'Vitrectomy With Macular Hole Surgery'
-'Vitrectomy With Retinal Detachment Repair'
-'Vitreo-Retinal Surgery'
-'Full Dental Clearance'
-'Lower Clearance'
-'Removal Of One Tooth - Surgical'
-'Removal Of Tooth - Forceps'
-'Removal Of Two Or More Teeth - Surgical'
-'Third Molars - 1 Upper, 1 Lower'
-'Third Molars - 2 Lower'
-'Third Molars - 2 Upper'
-'Third Molars - 2 Upper, 1 Lower'
-'Third Molars - 2 Upper, 2 Lower'
-'Upper Clearance'
-'Apicectomy And Root/Fill Anterior Tooth X 1'
-'Apicectomy And Root/Fill Anterior Tooth X 2'
-'Apicectomy And Root/Fill Posterior Tooth X 1'
-'Apicectomy And Root/Fill Posterior Tooth X 2'
-'Exposure Of Unerupted Tooth X 1 - For Repositioning'
-'Exposure Of Unerupted Tooth X 1 - For Stimulation And Packing'
-'Exposure Of Unerupted Tooth X 2 - For Repositioning'
-'Exposure Of Unerupted Tooth X 2 - For Stimulation And Packing'
-'Frenectomy'
-'Oro-Antral Fistula Closure - Buccal Fat Pad'
-'Oro-Antral Fistula Closure - Buccal Sliding Flap'
-'Pericision (Fibrotomy) 1-2 Quadrant'
-'Pericision (Fibrotomy) 3 Quadrant'
-'Pericision (Fibrotomy) 4 Quadrant'
-'Removal Of Foreign Body From Antrum Via Alveolus'
-'Removal Of Foreign Body From Antrum Via Caldwell Luc'
-'Removal Of Tooth Root From Sinus'
-'Nerve Suture'
-'Open Neurolysis Of Peripheral Nerve, Not Elsewhere Classified'
-'Removal Foreign Bodies'
-'Removal Plates/Screws/Wires (Oral Surg)'
-'Salivary Fistula - Duct Relocation/Repair'
-'Anterior/Posterior Alveolar Osteotomy'
-'Bone Graft - Intraoral Site'
-'Bone Graft - Remote Site'
-'Genioplasty'
-'Genioplasty With Bone Graft'
-'Malar Osteotomy'
-'Mandibular Osteotomy - Bilateral'
-'Mandibular Osteotomy - Unilateral'
-'Maxillary Osteotomy - Multi Segment'
-'Maxillary Osteotomy - One Piece'
-'Biopsy - Excisional (Oral Surg)'
-'Biopsy - Incisional (Oral Surg)'
-'Biopsy - Needle'
-'Cyst - Soft Tissue - Excision'
-'Cyst Enucleation - Dentigerous'
-'Cyst Enucleation - Large Intra Bony'
-'Cyst Enucleation - Periapical'
-'Excision Of Sub-Mandibular Gland'
-'Excision Ranula - Sub-Lingual Gland'
-'Infection - Drain Abscess - Cellulitis Extra Oral'
-'Infection - Drain Abscess - Cellulitis Intra Oral'
-'Salivary Gland - Intra Oral Removal Duct Calculus'
-'Tumour - Benign Extensive Including Bone'
-'Tumour - Benign Localised'
-'Tumour - Malignant - Local Excision'
-'Cheiloplasty'
-'Ginivial Reconstruction'
-'Reconstruction Of Alveolar Ridge/Grafting'
-'Removal Hyperplasia - Extensive'
-'Removal Hyperplasia - Localised'
-'Removal Torus'
-'Sulcoplasty'
-'Sulcoplasty - With Skin Graft'
-'Arthrocentesis'
-'Arthroplasty - Condylar Surgery'
-'Arthroplasty - Meniscal Surgery'
-'Arthroscopy - Investigative'
-'Arthroscopy - With Surgery'
-'Dislocation - Closed Reduction'
-'Internal Derangement - Conservative Management'
-'Internal Derangement - With Splint'
-'Achilles - Elongation'
-'Achilles Tendon Reconstruction (Tenotomy, Percutaneous, Archilles'
-'Amputation Of Toe - IP Joint'
-'Amputation Of Toe - MTP Joint'
-'Ankle Ligament Reconstruction'
-'Ankle Replacement'
-'Arthrodesis - Ankle'
-'Arthrodesis - Great Toe'
-'Arthroscopy - Ankle'
-'Arthroscopy Ankle And Therapeutic Procedure'
-'Arthrotomy - Ankle'
-'Bone Correction - Tarsectomy Triple'
-'Correction Of Hallux Valgus By Osteotomy - First Metatarsal, Bilateral'
-'Correction Of Hallux Valgus By Osteotomy - First Metatarsal, Unilateral'
-'Hallux Rigidus - Bilateral'
-'Hallux Rigidus With Silastic Implant - Bilateral'
-'Hallux Rigidus With Silastic Implant - Single'
-'Hallux Valgus - Bilateral'
-'Hallux Valgus - Unilateral'
-'Hammer Toe Repair'
-'Hind Foot Correction'
-'Incision Of Tendon Sheath'
-'Ingrown Toenail - Radical Excision / Wedge Resection - Bilateral'
-'Ingrown Toenail - Radical Excision / Wedge Resection - Unilateral'
-'Neurectomy Of Foot Nec'
-'Osteotomy - Lesser Metatarsal'
-'Repair Of Foot Tendon - Primary Suture (Flexor Or Extensor)'
-'Repair Of Foot Tendon - Secondary Suture (Flexor Or Extensor)'
-'Repair Ruptured Achilles Tendon - Open, Primary'
-'Repair Ruptured Achilles Tendon - Secondary'
-'Soft Tissue Correction Of Foot'
-'Subtalar Arthrodesis'
-'Talo-Navicular Arthrodesis'
-'Tarsal Tunnel Release'
-'Tarsometatarsal Arthrodesis'
-'Tendon Reconstruction - Ankle'
-'Tenotomy - Toe'
-'Triple Arthodesis'
-'Arthroscopy Elbow'
-'Arthroscopy Elbow With Procedure'
-'Arthrotomy & Removal Of Loose Bodies - Elbow'
-'Arthrotomy - Elbow'
-'Epicondylitis Release'
-'Radial Head Excision'
-'Release Of Elbow Contracture'
-'Replacement Arthroplasty'
-'Supracondylar Osteotomy'
-'Tendon Transfer - Hand'
-'Transposition Of Ulna Nerve'
-'Ulna Nerve Release - Elbow'
-'Acute Osteomyelitis - Drainage Large Bone'
-'Acute Osteomyelitis - Drainage Small Bone'
-'Amputation Neuroma'
-'Bone Graft - Any Area, Minor Or Small'
-'Excision Bursa'
-'Excision Exostosis - Superficial'
-'Excision Of Exostosis - Deep Bone'
-'Nerve Graft'
-'Post Interoseous Nerve Release'
-'Primary Suture Nerves'
-'Sub-Acute Or Chronic Osteomyelitis - Exploration'
-'Arthroplasty Hemi Or Cup'
-'Bone Graft To Femur'
-'Decompression Fasciotomy - Thigh / Knee'
-'Femur - Slipped Epiphysis - Pinning'
-'Femur Osteotomy'
-'Ganz Osteotomy'
-'Hip - Closed Reduction'
-'Hip Arthroscopy'
-'Hip Arthroscopy With Therapeutic Procedure'
-'Neurectomy Of Leg Nec'
-'Osteotomy - Distal Femur'
-'Removal Of Hip Prosthesis For Infection (Without Revision)'
-'Removal Of Metal - Major'
-'Revision Hip Replacement'
-'Subcutaneous Tenotomy, Not Elsewhere Classified'
-'Total Hip Replacement'
-'Amputation - Above Or Below Knee'
-'Arthrodesis Of Knee'
-'Arthroscopic Anterior Cruciate Ligament Repair And / Or Reconstruction -'
-'Arthroscopic Chondroplasty Of Knee'
-'Arthroscopy And Meniscectomy'
-'Arthroscopy Knee - Diagnostic'
-'Arthroscopy Knee And Arthroscopic Procedure'
-'Arthrotomy For Loose Body Or Pinning'
-'Debridement Of Knee Joint'
-'Knee - Osteotomy'
-'Partial Knee Replacement'
-'Patellectomy'
-'Repair Collateral Ligament - Knee'
-'Repair Cruciate Ligament - Knee'
-'Repair Of Patellar Tendon - Primary'
-'Repair Of Patellar Tendon - Secondary'
-'Repair Recurrent Dislocating Patella'
-'Revision Knee Replacement'
-'Synovectomy Of Knee'
-'Total Knee Replacement'
-'Decompression Fasciotomy (Compartment Syndrome)'
-'Osteotomy - Proximal Tibia'
-'Repair Extensor Tendon Leg - Primary'
-'Repair Extensor Tendon Leg - Secondary'
-'Repair Flexor Tendon Leg - Primary'
-'Repair Flexor Tendon Leg - Secondary'
-'Tendon Lengthening'
-'Tibialis Anterior Transfer'
-'Excision Of Neuroma - Major Peripheral Nerves'
-'Lateral Popliteal Nerve Decompression'
-'Secondary Repair Of Nerve'
-'Suture Of Digital Nerve - Hand / Foot'
-'Suture Of Major Peripheral Nerves - Arm/Leg'
-'Suture Of Nerve Requiring Extensive Mobilisation'
-'Excision Of Joint, Not Elsewhere Classified'
-'Lower Limb - Above Knee - Plaster'
-'Lower Limb - Below Knee - Plaster'
-'Manipulation Of Joint'
-'Neurofasciotomy'
-'Removal Of Metal - Major'
-'Removal Of Metal - Minor'
-'Upper Limb - Above Elbow - Plaster'
-'Upper Limb - Below Elbow - Plaster'
-'Acromio-Clavicular - Open Reduction And Repair - Chronic'
-'Arthrodesis Of Shoulder'
-'Arthroplasty Excision'
-'Arthroscopy & Stabilisation Of Shoulder'
-'Arthroscopy Shoulder And Other Arthroscopic Procedure'
-'Arthroscopy, Decompression & Partial Acromioplasty'
-'Arthroscopy- Shoulder, Diagnostic'
-'Biceps Tendon Release Or Tenodesis'
-'Excision Outer End Of Clavicle'
-'Hemi Replacement Of Shoulder'
-'Removal Of Calcaneous Deposits Of Shoulder'
-'Repair Of Recurrent Dislocation'
-'Rotator Cuff Repair - Simple'
-'Rotator Cuff Repair With Acromioplasty'
-'Shoulder Arthroscopy, Decompression And Rotator Cuff Repair'
-'Total Replacement Of Shoulder'
-'Anterior Cervical Discectomy'
-'Anterior Cervical Discectomy + Fusion (1 Level) Including Foramen'
-'Anterior Cervical Discectomy + Fusion (2+ Level) Including Foramen'
-'Anterior Cervical Fusion With Internal Fixation'
-'Anterior Cervical Fusion, 1 Level (Dowel Or Similar), Lumbar - Sacral'
-'Anterior Cervical Fusion, 2 Or More Levels'
-'Anterior Decompression / Interbody Fusion 1 Level'
-'Anterior Decompression / Interbody Fusion Complex Procedures'
-'Anterior Endoscopic Spinal Fusion'
-'Anterior Lumbar Discectomy With Fusion 1 Level'
-'Anterior Lumbar Discectomy With Fusion 2 Or More Levels'
-'Cervical Rib Excision'
-'Coccygectomy'
-'Corporectomy'
-'Corporectomy With Fusion'
-'Decompression'
-'Decompression'
-'Decompression With Intertransverse Fusion'
-'Decompression With Pedicle Screws And Plates'
-'Discectomy 2 Or More Levels'
-'Fusion'
-'Lumbar Discectomy'
-'Occipital Cervical Fusion'
-'PLIF 1 Level'
-'PLIF 2+ Levels'
-'Posterior / Posterolateral Fusion - Lumbar - With Instrumentation And/Or'
-'Posterior / Posterolateral Fusion - Lumbar -With Instrumentation And/Or'
-'Posterior / Posterolateral Fusion - Lumbar -Without Instrumentation, 1'
-'Posterior / Posterolateral Fusion - Lumbar -Without Instrumentation, 2+'
-'Posterior C1-C2 Fusion'
-'Posterior Fusion - C Spine (Excl C1-2)'
-'Posterior Interbody Fusion With Disc Implant'
-'Posterior Thoracic Fusion 1-2 Levels'
-'Posterior Thoracic Fusion 3+ Levels With Instrumentation'
-'Spinal Stenosis Decompression - 1 Level'
-'Spinal Stenosis Decompression - 2+ Level'
-'Spine - Vertebral Bodies With Cord Involvement'
-'Thoracic Discectomy'
-'Trans Thoracic Fusion 1 Level'
-'Trans Thoracic Fusion 2 Or More Levels With Or Without Instrumentation'
-'Vertebra Excision / Replacement'
-'Amputation - Finger Or Thumb, Any Joint'
-'Arthrodesis - Wrist With Bone Graft'
-'Arthroscopy - Wrist'
-'Bilateral Carpal Tunnel'
-'Bone Graft - Metacarpals Or Phalanx'
-'Carpal Tunnel Release'
-'Endoscopic Release Of Carpal Tunnel'
-'Excision Of Ganglion - Wrist / Hand'
-'Excision Of Neuroma - Cutaneous Nerve'
-'Extensor Tendon Repair - Finger'
-'Extensor Tendon Repair - Hand'
-'Fusion - CMC Joint To Digits With Graft'
-'Fusion - CMC Joint To Thumb With Bone Graft'
-'Fusion - IP Joint'
-'Fusion - IP Joint With Graft'
-'Fusion - MCP Joint'
-'Fusion - Thumb'
-'Major Dupuytrens Contracture Release - Per Hand'
-'Minor Dupuytrens Contracture Release - Per Hand'
-'Open Tenotomy, Not Elsewhere Classified'
-'Primary Repair Of Flexor Tendon - Hand'
-'Repair Of Mallet Finger'
-'Replacement - IP Joint'
-'Replacement Arthroplasty In Thumb - Carpal Bones'
-'Replacement MCP Joint'
-'Replacement Of CMC Joint'
-'Secondary Repair Extensor Tendon - Wrist / Forearm'
-'Secondary Repair Flexor Tendon - Hand'
-'Secondary Repair Flexor Tendon - Wrist / Forearm'
-'Synovectomy - MCP Joint'
-'Tendon Transfer - Opponensplasty'
-'Tendon Transfer - Palm'
-'Tendon Transfer Radial Palsy'
-'Tenolysis Extensor Tendon - Hand / Finger'
-'Tenolysis Flexor Or Extensor Tendon - Wrist / Forearm'
-'Tenolysis Flexor Tendon - Finger / Palm'
-'Tenotomy - Hand / Finger (e.g. For Trigger Finger)'
-'Total Replacement - Wrist Joint'
-'Volkman's Contracture'
-'Atticotomy Plus Tympanoplasty'
-'Bilateral Grommet Insertion (Including Myringotomy)'
-'Cochlear Implant Surgery (Excluding The Cost Of The Appliance)'
-'Cortical Mastoidectomy Or Atticotomy'
-'Cortical Mastoidectomy Or Atticotomy Plus Myringoplasty'
-'Cortical Mastoidectomy Plus Tympanoplasty'
-'Endolympatic Sac, Decompression (With Or Without Shunt Insertion)'
-'Foreign Body Ear - Surgical Removal'
-'Meatoplasty'
-'Modified Radical Mastoidectomy Or Cat Plus Tympanoplasty'
-'Modified Radical Mastoidectomy Or Mastoidectomy With Posterior'
-'Myringoplasty - Transcanal'
-'Myringotomy'
-'Removal Of Grommets'
-'Removal Of Multiple Exostoses - Ear Canal'
-'Removal Solitary Osteoma Ear Canal'
-'Stapedectomy'
-'Tympanoplasty (Myringoplasty Postaural Or Endaural)'
-'Tympanoplasty plus Ossiculoplasty'
-'Tympanotomy (Cat)'
-'Tympanotomy - Plus Division Of Nerves Or Adhesions'
-'Tympanotomy - Unilateral'
-'Tympanotomy Plus Ossiculoplasty'
-'Tympanotomy Plus Repair Of Perilymph Fistula'
-'Unilateral Grommet Insertion (Including Myringotomy)'
-'Excision And Stapling Hypopharyngeal Diverticulum, Circo Pharyngeal'
-'Excision Of Thyro-Glossal Cyst Or Fistula'
-'Laryngoscopy - With Or Without Biopsy'
-'Micro-Laryngoscopy With Or Without Biopsy'
-'Myotomy'
-'Pharyngoscopy'
-'Pharyngoscopy With Biopsy'
-'Removal Of Pharyngeal Pouch'
-'Cautery Of Septum Or Turbinates'
-'Cautery Of Turbinates With Outfracture'
-'Conchal Cartilage Graft'
-'Examination Of Nasopharynx And Biopsy'
-'External Septo Rhinoplasty'
-'Foreign Body In Nose - Removal Of, Other Than Simple Probing'
-'Nasendoscopy'
-'Outfracture'
-'Reduction Of Nasal Fracture'
-'Septo-Rhinoplasty'
-'Septoplasty'
-'Septoplasty With Cautery Or Diathermy Of Turbinates, With Or Without'
-'Septoplasty With Trimming Of Turbinates'
-'Trimming Of Turbinates - Total - Bilateral'
-'Bilateral Antral Lavage'
-'Endoscopic Sinus Surgery'
-'Endoscopic Sinus Surgery - Bilateral'
-'Endoscopic Sinus Surgery - Bilateral And Septoplasty'
-'External Fronto-Ethmoidectomy'
-'Nasal Polyp Or Polypi - Bilateral'
-'Nasal Polyp Or Polypi - Unilateral'
-'Radical Antrostomy (Caldwell Luc)'
-'Radical Antrostomy - With Trans-Antral Ethmoidectomy (Jansen Horgan)'
-'Radical Fronto-Ethmoidectomy'
-'Sinoscopy'
-'Transnasal Ethmoidectomy'
-'Adenoidectomy'
-'Adenoidectomy And Cautery Of Turbinates'
-'Adenoidectomy With Bilateral Grommet Insertion'
-'Adenotonsillectomy With Grommet Insertion - Bilateral - Child'
-'Adenotonsillectomy With Grommet Insertion - Unilateral - Child'
-'Adenotonsillectomy, Grommets (Bilat) With Antral Lavage - Child'
-'Adenotonsillectomy, Grommets (Bilat) With Cautery Of Turbinates - Child'
-'Adenotonsillectomy, Grommets (Unilat) With Antral Lavage - Child'
-'Adenotonsillectomy, Grommets (Unilat) With Cautery Of Turbinates - Child'
-'Tonsillectomy Alone - Adult'
-'Tonsillectomy Alone - Child'
-'Tonsillectomy And Adenoidectomy - Child'
-'Tonsillectomy With Antral Lavage - Adult'
-'Tonsillectomy With Antral Lavage - Child'
-'Tonsillectomy With Cautery Of Turbinates - Adult'
-'Tonsillectomy With Cautery Of Turbinates - Child'
-'Tonsillectomy With Grommet Insertion - Bilateral - Child'
-'Tonsillectomy With Grommet Insertion - Unilateral - Child'
-'Tonsillectomy With Septoplasty'
-'Tonsillectomy, Adenoidectomy, Grommets With Antral Lavage'
-'Tonsillectomy, Grommets (Bilat) With Cautery Of Turbinates - Child'
-'Tonsillectomy, Grommets (Unilat) With Cautery Of Turbinates - Child'
-'Tonsillectomy, Grommets With Cautery Of Turbinates'
-'Uvulopalatopharngoplasty, Septoplasty And Reduction Of Turbinates'
-'Uvulopalatopharyngoplasty & Septoplasty'
-'Uvulopalatopharyngoplasty (Uppp)'
-'Bronchoscopy - Fibreoptic'
-'Bronchoscopy With Removal Of Foreign Body'
-'Oesophagoscopy'
-'Oesophagoscopy & E.U.A Nasopharynx'
-'Oesophagoscopy - With Biopsy'
-'Pan-Endoscopy - Including Laryngoscopy, Pharyngoscopy,'
-'Abdominal Aortic Aneurysm Replacement - Infrarenal - With Bifurcation'
-'Abdominal Aortic Aneurysm Replacement - Infrarenal - With Bifurcation'
-'Abdominal Aortic Aneurysm Replacement - Infrarenal - With Tube Graft'
-'Aorto-Iliac Bifurcation Graft (Occlusive Disease)'
-'Aorto-Iliac Endarterectomy'
-'Carotid Endarterectomy - Direct Closure'
-'Carotid Endarterectomy - Patch Closure'
-'Carotid Subclavian Graft'
-'Cervical Or Axillary Sympathectomy - Unilateral'
-'Cross-Over Graft (Fem - Fem)'
-'Embolectomy / Catheter Thrombectomy - Unilateral'
-'Femoral Endarterectomy'
-'Femoro-Popliteal Graft - Synthetic'
-'Femoro-Popliteal Graft - Vein'
-'Femoro-Tibial Graft - Synthetic'
-'Femoro-Tibial Graft - Vein'
-'Graft To Femoral Arteries'
-'Graft To Iliac Arteries'
-'Profundoplasty'
-'Renal Artery Aneurism Surgery'
-'Temporal Artery Biopsy'
-'Thoracoscopic Cervical Sympathectomy - Bilateral'
-'Thoracoscopic Cervical Sympathectomy - Unilateral'
-'Mohs Surgery (Including Closure) - 1 Layer'
-'Mohs Surgery (Including Closure) - 2 Layers'
-'Mohs Surgery (Including Closure) - 3+ Layers'
-'Plastic - Non Cosmetic Surgery - Over 2 Hours'
-'Plastic - Non Cosmetic Surgery - Up To 1 Hour'
-'Plastic - Non Cosmetic Surgery - Up To 1 Hour 30 Minutes'
-'Plastic - Non Cosmetic Surgery - Up To 2 Hours'
-'Plastic - Non Cosmetic Surgery - Up To 30 Minutes'
-'Revision Of Scar Of Other Site <= 7 Cms In Length (not cosmetic)'
-'Ankle'
-'Arterial Grafts'
-'Bone Anchor'
-'Bone Graft'
-'Breast (Post Mastectomy)'
-'Elbow'
-'Heart Valves'
-'Hepatic Stent'
-'Hip Prosthesis - Primary'
-'Hip Prosthesis - Revision'
-'Interuterine System (Mirena)'
-'Knee Prosthesis - Primary'
-'Knee Prosthesis - Revision'
-'Lacrimal Tubes -Unilateral'
-'Lens (as part of cataract surgery)'
-'Oesophageal Stent'
-'Other Prosthesis'
-'Post Mastectomy Tissue Expander'
-'Screws And Plates'
-'Shoulder Prosthesis'
-'Structural Prosthesis Instrumentation For Spinal Surgery'
-'Tissue Expander'
-'TVT Vaginal Tape'
-'Urological Stent'
-'Uterine Balloon'
-'Wave Length Fibres For Laser Prostatectomy'
-'Wrist'
-'Bladder - Repair Of Rupture'
-'Bladder Tumours, Suprapubic Diathermy Of'
-'Cystectomy Plus Bladder Reconstruction'
-'Cystolithotomy'
-'Cystoplasty'
-'Diverticulum Of Bladder, Excision Or Obliteration Of'
-'Incision Of Bladder Neck'
-'Total Or Radical Cystectomy With Ileal Conduit Diversion'
-'Total Or Radical Cystectomy With Replacement Cystoplasty Ectopic With Continent Stoma'
-'Total Or Radical Cystectomy With Replacement Cystoplasty Orthotopic'
-'Catheterisation'
-'Catheterisation - With Instillation Drugs '
-'Cystoscopy With Urodynamic Assessment'
-'Diathermy Penile Warts Or Minor Genital Skin Lesion Excision'
-'Transrectal Ultrasound And Biopsy'
-'Urethral Dilatation'
-'Urodynamic Assessment'
-'Cystoscopic Destruction And Removal Bladder Calculus'
-'Cystoscopic Destruction And Removal Bladder Calculus / Litholopaxy'
-'Cystoscopy - Removal Ureteric Calculus Or Foreign Body'
-'Cystoscopy - With Biopsy, Ureteric Catheterization, Urethral Dilatation,'
-'Cystourethroscopy'
-'Cystourethroscopy - With Bladder Neck Incision Or Major Visual'
-'Endopyelotomy - Antegrade'
-'Endopyelotomy - Retrograde'
-'Endourology'
-'Flexible Cystourethroscopy Under Local Anaesthetic'
-'Flexible Cystourethroscopy Under Local Anaesthetic - With Biopsy,'
-'Laser Resection Of Bladder Tumour - Major'
-'Laser Resection Of Bladder Tumour - Minor'
-'Laser Resection Prostate'
-'Nephrostomy Tract Establishment By Urologist'
-'Percutaneous Nephroscopy With Additional Procedures, e.g. Lithotomy'
-'Removal Stent, Or Other Minor Procedure'
-'Transurethral Needle Ablation Of Prostate'
-'Transurethral Resection Bladder Tumour -Major >30Min'
-'Transurethral Resection Bladder Tumour -Minor <30Min'
-'Transurethral Resection Prostate'
-'TURP Including Cystoscopy'
-'Ureteric Catheterization, Urethral Dilatation, Removal Stent, Or Other Minor Procedures'
-'Ureteroscopy With Minor Additional Procedure'
-'Urethrotomy'
-'Colposuspension - Open'
-'Implantation Artificial Urinary Sphincter'
-'Needle Colposuspension, Endoscopic Bladder Neck Suspension Or Similar'
-'Pubo-Vaginal Sling Operation For Incontinence'
-'Laparoscopic Adrenalectomy'
-'Nephrectomy - Partial'
-'Nephrectomy - Radical'
-'Nephrectomy - Simple'
-'Nephrolithotomy - Major More Than 120 Minutes'
-'Nephrostomy - Open'
-'Nephrostomy - Percutaneous'
-'Nephroureterectomy'
-'Percutaneous Pyelolithotomy'
-'Pyelolithotomy'
-'Pyeloplasty'
-'Circumcision'
-'Dorsal Slit'
-'Penile Biopsy'
-'Penile Plication For Peyronies'
-'Penile Prosthesis - Inflatable'
-'Penile Prosthesis - Semi Rigid'
-'Penis - Amputation'
-'Priapism - Aspiration And Irrigation'
-'Priapism - Caverno-Femoral Shunt Or Similar'
-'Priapism - Intrapenile Shunts'
-'Priapism - Winter's Procedure'
-'Laparoscopic Pelvic Node Dissection'
-'Open Enucleation Prostate'
-'Pelvic Node Dissection'
-'Perineal Prostatectomy'
-'Prostate - Needle Biopsy'
-'Radical Retropubic Prostatectomy'
-'Radical Retropubic Prostatectomy -With Synchronous Node Dissection'
-'Bilateral Orchidopexy'
-'Bilateral Scrotal Orchidectomies'
-'Hydrocele Repair, Epididymal Cyst Excision, Spermatocele, Or Epididymectomy - Bilateral'
-'Hydrocele Repair, Epididymal Cyst Excision, Spermatocele, Or Epididymectomy - Unilateral'
-'Inguinal Herniotomy - Under 3 Years'
-'Orchiectomy - High Ligation'
-'Radical Orchiectomy'
-'Testicular Biopsy'
-'Testicular Prosthesis Insertion'
-'Testicular Torsion - Fixation'
-'Undescended Testis - Laparoscopy For'
-'Unilateral Orchidopexy'
-'Varicocele Repair- Inguinal'
-'Varicocele Repair- Laparaoscopic'
-'Insertion Of Double J Stent'
-'Reduction Ureteroplasty And Reimplant - 1st Stage'
-'Reduction Ureteroplasty And Reimplant - 2nd Stage'
-'Reimplantation Ureter - Bilateral'
-'Reimplantation Ureter - Unilateral'
-'Ureterolithotomy'
-'Ureterolysis'
-'Caruncle - Cauterisation'
-'Incontinence - Peri-Urethral Injection'
-'Meatoplasty (Urethra)'
-'Urethral Calculus'
-'Urethral Diverticulum'
-'Urethrectomy'
-'Urethroplasty - One Stage Trans Pubic'
-'Urethroplasty - Revision For Recurrent Stricture'
-'Urethroplasty - Stage 1'
-'Urethroplasty - Stage 2'
-'Urethroplasty Including Stricture Repair, Urethral Diverticulum'
+'Angioplasty',
+'Angioplasty, Laser',
+'Artificial Heart Valve Surgery',
+'Atherectomy',
+'Bypass Surgery',
+'Cardiomyoplasty',
+'Coronary Artery By Pass',
+'Heart Transplant',
+'Minimally Invasive Heart Surgery',
+'Mitral Balloon Valvuloplasty',
+'Radiofrequency Ablation',
+'Removal Of Sternal Wire',
+'Stent Procedure',
+'Transmyocardial Revascularization',
+'Valve Replacement',
+'Breast - Simple Mastectomy, Bilateral',
+'Breast - Simple Mastectomy, Unilateral',
+'Breast Biopsy - Hook Wire',
+'Breast Biopsy With Frozen Section',
+'Breast Michrodochotomy',
+'Breast Reconstruction - Delay Procedure',
+'Breast Reconstruction - Nipple Reconstruction - Unilateral',
+'Breast Reconstruction After Mastectomy - Muscle Transposition - Unilateral',
+'Breast Reconstruction After Mastectomy - Tissue Expander - Unilateral',
+'Breast Reconstruction After Mastectomy- Prosthetic Insert - Unilateral',
+'Breast, Male - Bilateral Mastectomy',
+'Breast, Male - Unilateral Mastectomy',
+'Correction Of Nipple Inversion - Bilateral',
+'Correction Of Nipple Inversion - Unilateral',
+'Extended Simple Mastectomy With Axillary Dissection - Bilateral',
+'Extended Simple Mastectomy With Axillary Dissection - Unilateral',
+'Open Breast Biopsy',
+'Partial Mastectomy',
+'Partial Mastectomy Including Sentinel Node Biopsy',
+'Sentinel Node Biopsy',
+'Wide Local Excision With Axillary Dissection, Breast - Unilateral',
+'Wide Local Excision With Axillary Dissection, Breasts - Bilateral',
+'Anal Dilatation',
+'Anal Or Perineal Graciloplasty',
+'Anal Sphincterotomy',
+'Anorectal Physiology Study',
+'Anterior Resection Of Rectum - High With Intraperitoneal Anastomosis',
+'Anterior Resection Of Rectum - Low With Coloanal Anastomosis',
+'Anterior Resection Of Rectum - Low With Extraperitoneal Anastomosis',
+'Anterior Resection Of Rectum - Ultra Low With Coloanal Anastomosis',
+'Appendicectomy',
+'Banding Of Haemorrhoids',
+'Biopsy of Liver - Ultrasound Guidance',
+'Cholangiogram',
+'Cholecystectomy',
+'Cholecystectomy And Choledochotomy Including Any Choledonchoscopy',
+'Cholecystectomy With Operative Cholangiogram',
+'Colectomy - Total With Ileo-Rectal Anastomosis',
+'Colonoscopy',
+'Colonoscopy With Biopsy',
+'Colonoscopy With Removal Of Polyps',
+'Colostomy - Closure',
+'Colostomy - Formation',
+'Colotomy - For Polyp Or Wedge Resection Of Colon For Polyp',
+'Complicated Repair Of Anal Fistula',
+'E.R.C.P.',
+'E.R.C.P. And Sphincterotomy Or Stenting',
+'Examination Of Colon Up To Splenic Fixture (Short Colonoscopy With Biopsy)',
+'Excision Of Anal Skin Tag',
+'Excision Of Pancreatic Tumour',
+'Excision Of Pilonidal Sinus',
+'Formalin Treatment For Radiation Proctitis',
+'Freeing Of Major Abdominal Adhesions',
+'Freeing Of Minor Abdominal Adhesions',
+'Gastrectomy - Partial',
+'Gastrectomy - Total (Abdominal, Thoracic, Or Combined Approach)',
+'Gastroscopy (With Or Without Biopsy)',
+'Gastroscopy And Colonoscopy',
+'Haemorrhoidectomy Including Sigmoidoscopy',
+'Haemorrhoids - External',
+'Hepatectomy',
+'Hepatic Cryotherapy',
+'Hiatus Hernia Repair',
+'Ileostomy Formation',
+'Implantation Of Inflatable Sphincter -Anal',
+'Infrared Coagulation',
+'Injection Of Haemorrhoids',
+'Injection Of Haemorrhoids And Sigmoidoscopy',
+'Insertion Of Oesaphageal Stent',
+'Laparoscopic Appendicectomy',
+'Laparoscopic Cholecystectomy',
+'Laparoscopic Cholecystectomy And Nissan Repair',
+'Laparoscopic Cholecystectomy Converted To Open',
+'Laparoscopic Cholecystectomy Converted To Open With Operative',
+'Laparoscopic Cholecystectomy With Operative Cholangiogram',
+'Laparoscopic Freeing Of Major Abdominal Adhesions',
+'Laparoscopic Freeing Of Minor Abdominal Adhesions',
+'Laparoscopic Hiatus Hernia Repair',
+'Laparoscopic Splenectomy',
+'Laparotomy',
+'Laparotomy Including Appendicectomy',
+'Left Hemicolectomy - With Anastomosis',
+'Left Hemicolectomy - With Formation Of Stoma',
+'Liver Lobectomy (Right Or Left)',
+'Mobilisation',
+'Needle Biopsy Of Liver',
+'Non-Endoscopic Dilation Of Oesophagus',
+'Oesophagael Dilation With Gastroscopy',
+'Oesophageal 24Ph Monitoring',
+'Oesophageal Manometry Test',
+'Oesophagectomy - One Stage',
+'Oesophagectomy By Abdominal And Transthoracic Mobilisation, With',
+'Oesophagus - Hellers Operation',
+'Pancreas - Total Excision Of, Or Pancreatico-Duodenectomy',
+'Pilonidal Abscess, Including Drainage',
+'Prolapse Of Rectum - Abdominal Rectopexy',
+'Prolapse Of Rectum - Excision Of Rectal Mucosa (Including Sigmoidoscopy)',
+'Rectosigmoidectomy With Formation Of Stoma',
+'Repair Of Pancreatic Duct Sphincter',
+'Repair Of Sphincter Of Oddi',
+'Resection Of Rectum - Abdominoperineal',
+'Revision Colostomy',
+'Right Hemicolectomy - With Anastomosis',
+'Right Hemicolectomy - With Formation Of Stoma',
+'Sigmoidcolectomy With Anastomosis',
+'Sigmoidcolectomy With Formation of Stoma',
+'Sigmoidoscopy And Anal Fistula',
+'Sigmoidoscopy Including Consultation',
+'Sigmoidoscopy With Biopsy',
+'Simple Repair Of Anal Fistula',
+'Small Bowel Resection',
+'Sphincteroplasty',
+'Splenectomy',
+'Thoracic Oesophagogastric Anastomosis',
+'Total Gastrectomy And Oesaphagectomy By Abdominal Transthoracic',
+'Toupet Fundoplication - Adult - Laparoscopic',
+'Toupet Fundoplication - Adult - Open',
+'Toupet Fundoplication - Paediatric',
+'Transanal Excision Of Rectal Tumour',
+'Whipples Procedure',
+'Biopsy Of Tongue',
+'Branchial Fistula',
+'Excision Of Sub-Mandibular Gland',
+'Excision Of Thyro-Glossal Cyst Or Fistula',
+'Glands - Supra Hyoid Dissection Of Neck (Selective - Supramohyoid)',
+'Lymph Node Dissection Neck (Other)',
+'Parathyroidectomy',
+'Radical Neck Dissection',
+'Salivary Gland - Removal Duct Calculus',
+'Superficial Parotidectomy',
+'Thyroidectomy Including Para-Thyroid Transplant',
+'Thyroplasty',
+'Tongue - Partial Removal, Hemi-Glossectomy',
+'Total (Or Sub-Total) Thyroidectomy',
+'Total Parotidectomy (Including Superficial)',
+'Total Thyroid Lobectomy',
+'Bilateral Hernia - Femoral Repair',
+'Bilateral Hernia - Inguinal Repair',
+'Bilateral Inguinal Herniotomies - Under 3 Years',
+'Bilateral Laparoscopic Hernia - Femoral',
+'Bilateral Laparoscopic Hernia - Inguinal',
+'Hernia - Under 3 Years - Strangulated',
+'Inguinal Herniotomy - Under 3 Years',
+'Repair Of Complicated Incisional Hernia',
+'Repair Of Epigastric Hernia',
+'Repair Of Incisional Hernia',
+'Repair Of Major Umbilical Hernia - Adult, Para Umbilical Hernia',
+'Repair Of Minor Umbilical Hernia - Adult, Para Umbilical Hernia',
+'Repair Of Umbilical Hernia - Under 10 Years',
+'Unilateral Hernia - Femoral Repair',
+'Unilateral Hernia - Inguinal Repair',
+'Unilateral Laparoscopic Hernia - Femoral',
+'Unilateral Laparoscopic Hernia - Inguinal',
+'Abdominal Paracentesis Or Pleural Tap',
+'Axillary Node Dissection',
+'Bilateral Orchidopexy',
+'Central Vein Catheterisation',
+'Chest Biopsy, Thoracotomy',
+'Circumcision',
+'Drainage of Pericardial Effusion',
+'Epididymectomy - Unilateral',
+'Excision Thymoma With Sternotomy',
+'Hydrocele Repair, Epididymal Cyst Excision, Spermatocele, Or',
+'Inguinal Herniotomy - Under 3 Years',
+'Inguinal Node Dissection',
+'Insertion Of Port-A-Cath',
+'Lung Biopsy - Bronchoscopic',
+'Lung Biopsy - Bronchoscopic - Fibreoptic',
+'Lung Biopsy - Open',
+'Lung Biopsy - Percutaneous',
+'Lung Exploration',
+'Lung, Lobectomy',
+'Mediastenoscopy',
+'Percutaneous Central Vein Catheterisation',
+'Pericardiocentesis',
+'Removal Of Port-A-Cath',
+'Thorascopic Pleurodesis Stapling Bullae',
+'Unilateral Orchidopexy',
+'Abscess - Large, Or Extensive Cellulitis Requiring Incision Or Drainage',
+'Abscess - Small, Or Cellulitis Requiring Incision And Drainage With Local',
+'Anaesthetic',
+'Apocrinectomy - Bilateral',
+'Aspiration Of Cyst / Needle Biopsy (Breast)',
+'Aspiration Of Small Haematoma',
+'Biopsy Of Skin And Subcutaneous Tissue',
+'Drainage Of Haematoma',
+'Excision Of Cyst, Tumour , Superficial (Large)',
+'Excision Of Cyst, Tumour , Superficial (Small)',
+'Excision Of Cyst, Tumour Or Scar, Involving Deeper Structures',
+'Excision Of Ganglion - Other',
+'Excision Of Ganglion - Wrist / Hand',
+'Removal Of Foreign Body With G.A.',
+'Tumour, Benign Or Malignant Requiring Wide Excision',
+'Tumour, Benign Or Malignant Requiring Wide Excision With Skin Graft',
+'Vermilionectomy',
+'Cervix - Amputation Or Reconstruction',
+'Cervix - Biopsy Under Anaesthetic',
+'Cervix - Suture Of - Shirodkar's Operation',
+'Cervix Cauterisation Of - With Anaesthesia',
+'Colposcopy With Biopsy',
+'Cone Biopsy',
+'Cryo Cautery Of Cervix',
+'Description of Surgical Procedure',
+'Effective Date: 1 June 2005',
+'Laser Ablation',
+'Laser Cone Biopsy',
+'Lletz Loop',
+'Median Total',
+'Revision of episiotomy scar (not cosmetic)',
+'Biopsy Of Ovary',
+'Diagnostic Laparoscopy',
+'Endometriosis Surgery - Severe (Laparotomy)',
+'Fallopian Tubes - Ovaries',
+'Laparoscopic Diathermy To Endometriosis',
+'Laparoscopic Division Of Adhesions To Ovaries',
+'Laparoscopic Endometriosis Surgery - Moderate',
+'Laparoscopic Endometriosis Surgery - Severe',
+'Laparoscopic Endometriosis Surgery- Mild',
+'Laparoscopic Oopherectomy - Bilateral',
+'Laparoscopic Oopherectomy - Unilateral',
+'Laparoscopic Ovarian Cystectomy - Bilateral',
+'Laparoscopic Ovarian Cystectomy - Unilateral',
+'Laparoscopic Salpingo-Oopherectomy, Bilateral',
+'Laparoscopic Unilateral Oopherectomy With Bilateral Salpingectomy',
+'Laparoscopy With Dye Study',
+'Laparoscopy With Hysteroscopy D&C',
+'Open Oopherectomy - Bilateral',
+'Open Oopherectomy - Unilateral',
+'Open Ovarian Cystectomy - Bilateral',
+'Open Ovarian Cystectomy - Unilateral',
+'Salpingectomy',
+'Salpingectomy, Laparoscopic',
+'Salpingo Or Salpingolysis',
+'Salpingo-Oopherectomy, Bilateral',
+'Salpingo-Oophorectomy',
+'Salpingo-Oophorectomy, Laparoscopic',
+'Salpingostomy - Laparoscopic',
+'Unilateral Oopherectomy With Bilateral Salpingectomy',
+'Colposuspension - Open',
+'Cystourethroscopy',
+'Laparoscopic Colposuspension',
+'Pubo-Vaginal Sling Operation For Incontinence',
+'Ventro-Suspension',
+'Abdominal Hysterectomy',
+'Abdominal Hysterectomy With BSO',
+'Abdominal Myomectomy',
+'Abscess - Pelvic, Drainage Of, Via Fornices',
+'D & C With Biopsy Of Cervix',
+'D & C With Reuben's Test',
+'D&C After Miscarriage',
+'D&C With Cone Biopsy Of Cervix',
+'D&C With Removal Of Polyp - Cervix',
+'D&C With Removal Of Polyp - Uterus',
+'Endometrial Biopsy (Pipelle)',
+'Endometrial Resection / Ablation',
+'Hysterectomy - Classical, Abdominal, Semm Laparoscopic, Incl Asst Fee',
+'Hysterectomy - Total And Marshall Marchetti Procedure',
+'Hysteroscopy And Removal Of Endometrial Polyp With D&C',
+'Hysteroscopy And Removal Of Submucous Fibroid With D&C',
+'Hysteroscopy D&C',
+'Laparoscopic Myomectomy',
+'Laparoscopic Uterine Nerve Ablation',
+'Laparoscopic Vaginal Hysterectomy With Division Of Adhesions',
+'Laparoscopically Assisted Vaginal Hysterectomy',
+'Laparoscopically Assisted Vaginal Hysterectomy With BSO',
+'Laparoscopy With D & C',
+'Laparotomy - Exploratory',
+'Omentectomy +/- Nodes',
+'Pelvic Glands - Radical Dissection Of',
+'Total Abdominal Hysterectomy & Bilateral Salpingo-Oopherectomy &',
+'Uterine Balloon Therapy',
+'Vaginal Hysterectomy',
+'Vaginal Hysterectomy With Pelvic Repair',
+'Wertheims Hysterectomy',
+'Anterior And Posterior Colporrhaphy',
+'Anterior Colporrhaphy',
+'Colporrhaphy - Anterior And Amputation Of Cervix',
+'Examination Under Anaesthetic',
+'Excision Of Vaginal Lesion',
+'Laparoscopic Pelvic Floor Repair',
+'Open Sacrocolpopexy, Levatoplasty',
+'Posterior Colporrhaphy',
+'Posterior Colporrhaphy And Enterocele',
+'Recto-Vaginal Fistula - Repair Of',
+'Vaginal Anterior Mesh Repair',
+'Vaginal Posterior Mesh Repair',
+'Vault Repair, i.e. Sacrospinous Fixation',
+'Vesico-Vaginal Fistula - Repair Of',
+'Bartholins Cyst / Abscess Surgery',
+'Fenton's Procedure',
+'Incision Of Hymen',
+'Multiple Vulval Biopsy',
+'Separation Of Labial Fusion',
+'Simple Excision Vulval Lesion - Bilateral',
+'Simple Excision Vulval Lesion - Unilateral',
+'Simple Vulvectomy',
+'Vulva',
+'Vulva - Radical Excision Of, With Glands',
+'Vulval Biopsy - Office',
+'Warts - Vulval, Cauterisation Or Laser',
+'Chemical Sympathectomy',
+'Core Biopsy With Ultrasound',
+'CT Guided Biopsy',
+'CT Guided Drainage',
+'Fine Needle Aspiration (Other Than Breast) Under Ultrasound',
+'Fluoroscopy (in conjunction with surgical procedure)',
+'Lumbar Chemical Sympathectomy',
+'Trans Perineal Prostate Biopsy',
+'Transrectal Ultrasound And Biopsy',
+'Ultrasound Breast Cyst Aspiration (Including Fine Needle)',
+'Acoustic Neuroma',
+'Craniectomy, Posterior Fossa Craniectomy',
+'Craniotomy- Re-Opening',
+'Micro Vascular Decompression Trigeminal Nerve, Trigeminal Neuralgia',
+'Pituitary Adenoma',
+'Removal Of Spinal Intradural Lesion',
+'Repair Of Encephalocele',
+'Spinal Rhizolysis',
+'Translabrinthine Excision Of Tumour',
+'Cataract',
+'Cataract Extraction And Iol With Anterior Vitrectomy',
+'Cataract Extraction With Iol With Trabeculectomy (Including First 5 Post-Op',
+'Extracapsular Cataract Extraction With Insertion Of Artificial Lens',
+'Iol Implant With Anterior Vitrectomy',
+'Lens Extraction',
+'Phacoemulsification Cataract Extraction With Insertion Of Artificial Lens',
+'Secondary Iol Implant',
+'Yag Laser Capsulotomy',
+'Anterior Stromal Puncture',
+'Cornea Or Sclera - Removal Of Foreign Body',
+'Corneal Surgery',
+'Keratectomy',
+'Penetrating Keratoplasty Or Similar',
+'Phototherapeutic Keratectomy (On Application To Chief Medical Officer,',
+'Excision Of Pinguecula',
+'Excision Of Pterygium',
+'Excision Of Pterygium And Graft',
+'Extraocular Operations On Globe',
+'Drainage (Glaucoma), Molteno Drain Or Similar Procedure',
+'Glaucoma',
+'Iridectomy Or Iridotomy',
+'Laser Iridotomy',
+'Laser Trabeculoplasty',
+'Trabeculectomy (Including First 5 Post-Op Visits)',
+'Trabeculectomy With Cytotoxic Agent (Including First 5 Post-Op Visits)',
+'Autogenous Grafts - Major',
+'Autogenous Grafts - Minor',
+'Correction Of Ptosis',
+'Correction Of Ptosis - Bilateral',
+'Dacryocystorhinostomy',
+'Entropion / Ectropion - Repair',
+'Intermediate Eyelid Surgery',
+'Lacrimal Intubation - Unilateral',
+'Lacrimal Passage - Probing Of',
+'Lids And Adnexa',
+'Major Eyelid Surgery',
+'Minor Eyelid Surgery',
+'Removal Of Tarsal Cyst',
+'Enucleation Of Eye',
+'Enucleation Of Eye With Implant',
+'Evisceration Of Globe',
+'Evisceration Of Globe - With Implant',
+'Orbit',
+'Orbitotomy',
+'Extraocular Muscles - Strabismus - >= Three Muscles',
+'Extraocular Muscles - Strabismus - One Or Two Muscles',
+'Extraocular Muscles - Strabismus - Three Or More Muscles',
+'Placement Of Adjustable Suture During Strabismus Surgery (Including',
+'Post-Operative Adjustments)',
+'Strabismus - >= Three Muscles - Reoperation',
+'Strabismus - One Or Two Muscles - Reoperation',
+'Strabismus - Three Or More Muscles - Reoperation',
+'Strabismus Surgery',
+'Intraocular Vitreal Injection',
+'Macula Hole Eye Surgery',
+'Pan Retinal Laser',
+'Photocoagulation Of Retina',
+'Removal Of Silicone Oil',
+'Repair Of Detached Retina - Cryotherapy Or Diathermy',
+'Retinal Cryotherapy',
+'Retinal Detachment Repair With Scleral Buckle',
+'Retinal Membrane Peeling',
+'Vitrectomy Alone (Removal Of Vitreous)',
+'Vitrectomy With Macular Epiretinal Membrane Peel',
+'Vitrectomy With Macular Hole Surgery',
+'Vitrectomy With Retinal Detachment Repair',
+'Vitreo-Retinal Surgery',
+'Full Dental Clearance',
+'Lower Clearance',
+'Removal Of One Tooth - Surgical',
+'Removal Of Tooth - Forceps',
+'Removal Of Two Or More Teeth - Surgical',
+'Third Molars - 1 Upper, 1 Lower',
+'Third Molars - 2 Lower',
+'Third Molars - 2 Upper',
+'Third Molars - 2 Upper, 1 Lower',
+'Third Molars - 2 Upper, 2 Lower',
+'Upper Clearance',
+'Apicectomy And Root/Fill Anterior Tooth X 1',
+'Apicectomy And Root/Fill Anterior Tooth X 2',
+'Apicectomy And Root/Fill Posterior Tooth X 1',
+'Apicectomy And Root/Fill Posterior Tooth X 2',
+'Exposure Of Unerupted Tooth X 1 - For Repositioning',
+'Exposure Of Unerupted Tooth X 1 - For Stimulation And Packing',
+'Exposure Of Unerupted Tooth X 2 - For Repositioning',
+'Exposure Of Unerupted Tooth X 2 - For Stimulation And Packing',
+'Frenectomy',
+'Oro-Antral Fistula Closure - Buccal Fat Pad',
+'Oro-Antral Fistula Closure - Buccal Sliding Flap',
+'Pericision (Fibrotomy) 1-2 Quadrant',
+'Pericision (Fibrotomy) 3 Quadrant',
+'Pericision (Fibrotomy) 4 Quadrant',
+'Removal Of Foreign Body From Antrum Via Alveolus',
+'Removal Of Foreign Body From Antrum Via Caldwell Luc',
+'Removal Of Tooth Root From Sinus',
+'Nerve Suture',
+'Open Neurolysis Of Peripheral Nerve, Not Elsewhere Classified',
+'Removal Foreign Bodies',
+'Removal Plates/Screws/Wires (Oral Surg)',
+'Salivary Fistula - Duct Relocation/Repair',
+'Anterior/Posterior Alveolar Osteotomy',
+'Bone Graft - Intraoral Site',
+'Bone Graft - Remote Site',
+'Genioplasty',
+'Genioplasty With Bone Graft',
+'Malar Osteotomy',
+'Mandibular Osteotomy - Bilateral',
+'Mandibular Osteotomy - Unilateral',
+'Maxillary Osteotomy - Multi Segment',
+'Maxillary Osteotomy - One Piece',
+'Biopsy - Excisional (Oral Surg)',
+'Biopsy - Incisional (Oral Surg)',
+'Biopsy - Needle',
+'Cyst - Soft Tissue - Excision',
+'Cyst Enucleation - Dentigerous',
+'Cyst Enucleation - Large Intra Bony',
+'Cyst Enucleation - Periapical',
+'Excision Of Sub-Mandibular Gland',
+'Excision Ranula - Sub-Lingual Gland',
+'Infection - Drain Abscess - Cellulitis Extra Oral',
+'Infection - Drain Abscess - Cellulitis Intra Oral',
+'Salivary Gland - Intra Oral Removal Duct Calculus',
+'Tumour - Benign Extensive Including Bone',
+'Tumour - Benign Localised',
+'Tumour - Malignant - Local Excision',
+'Cheiloplasty',
+'Ginivial Reconstruction',
+'Reconstruction Of Alveolar Ridge/Grafting',
+'Removal Hyperplasia - Extensive',
+'Removal Hyperplasia - Localised',
+'Removal Torus',
+'Sulcoplasty',
+'Sulcoplasty - With Skin Graft',
+'Arthrocentesis',
+'Arthroplasty - Condylar Surgery',
+'Arthroplasty - Meniscal Surgery',
+'Arthroscopy - Investigative',
+'Arthroscopy - With Surgery',
+'Dislocation - Closed Reduction',
+'Internal Derangement - Conservative Management',
+'Internal Derangement - With Splint',
+'Achilles - Elongation',
+'Achilles Tendon Reconstruction (Tenotomy, Percutaneous, Archilles',
+'Amputation Of Toe - IP Joint',
+'Amputation Of Toe - MTP Joint',
+'Ankle Ligament Reconstruction',
+'Ankle Replacement',
+'Arthrodesis - Ankle',
+'Arthrodesis - Great Toe',
+'Arthroscopy - Ankle',
+'Arthroscopy Ankle And Therapeutic Procedure',
+'Arthrotomy - Ankle',
+'Bone Correction - Tarsectomy Triple',
+'Correction Of Hallux Valgus By Osteotomy - First Metatarsal, Bilateral',
+'Correction Of Hallux Valgus By Osteotomy - First Metatarsal, Unilateral',
+'Hallux Rigidus - Bilateral',
+'Hallux Rigidus With Silastic Implant - Bilateral',
+'Hallux Rigidus With Silastic Implant - Single',
+'Hallux Valgus - Bilateral',
+'Hallux Valgus - Unilateral',
+'Hammer Toe Repair',
+'Hind Foot Correction',
+'Incision Of Tendon Sheath',
+'Ingrown Toenail - Radical Excision / Wedge Resection - Bilateral',
+'Ingrown Toenail - Radical Excision / Wedge Resection - Unilateral',
+'Neurectomy Of Foot Nec',
+'Osteotomy - Lesser Metatarsal',
+'Repair Of Foot Tendon - Primary Suture (Flexor Or Extensor)',
+'Repair Of Foot Tendon - Secondary Suture (Flexor Or Extensor)',
+'Repair Ruptured Achilles Tendon - Open, Primary',
+'Repair Ruptured Achilles Tendon - Secondary',
+'Soft Tissue Correction Of Foot',
+'Subtalar Arthrodesis',
+'Talo-Navicular Arthrodesis',
+'Tarsal Tunnel Release',
+'Tarsometatarsal Arthrodesis',
+'Tendon Reconstruction - Ankle',
+'Tenotomy - Toe',
+'Triple Arthodesis',
+'Arthroscopy Elbow',
+'Arthroscopy Elbow With Procedure',
+'Arthrotomy & Removal Of Loose Bodies - Elbow',
+'Arthrotomy - Elbow',
+'Epicondylitis Release',
+'Radial Head Excision',
+'Release Of Elbow Contracture',
+'Replacement Arthroplasty',
+'Supracondylar Osteotomy',
+'Tendon Transfer - Hand',
+'Transposition Of Ulna Nerve',
+'Ulna Nerve Release - Elbow',
+'Acute Osteomyelitis - Drainage Large Bone',
+'Acute Osteomyelitis - Drainage Small Bone',
+'Amputation Neuroma',
+'Bone Graft - Any Area, Minor Or Small',
+'Excision Bursa',
+'Excision Exostosis - Superficial',
+'Excision Of Exostosis - Deep Bone',
+'Nerve Graft',
+'Post Interoseous Nerve Release',
+'Primary Suture Nerves',
+'Sub-Acute Or Chronic Osteomyelitis - Exploration',
+'Arthroplasty Hemi Or Cup',
+'Bone Graft To Femur',
+'Decompression Fasciotomy - Thigh / Knee',
+'Femur - Slipped Epiphysis - Pinning',
+'Femur Osteotomy',
+'Ganz Osteotomy',
+'Hip - Closed Reduction',
+'Hip Arthroscopy',
+'Hip Arthroscopy With Therapeutic Procedure',
+'Neurectomy Of Leg Nec',
+'Osteotomy - Distal Femur',
+'Removal Of Hip Prosthesis For Infection (Without Revision)',
+'Removal Of Metal - Major',
+'Revision Hip Replacement',
+'Subcutaneous Tenotomy, Not Elsewhere Classified',
+'Total Hip Replacement',
+'Amputation - Above Or Below Knee',
+'Arthrodesis Of Knee',
+'Arthroscopic Anterior Cruciate Ligament Repair And / Or Reconstruction -',
+'Arthroscopic Chondroplasty Of Knee',
+'Arthroscopy And Meniscectomy',
+'Arthroscopy Knee - Diagnostic',
+'Arthroscopy Knee And Arthroscopic Procedure',
+'Arthrotomy For Loose Body Or Pinning',
+'Debridement Of Knee Joint',
+'Knee - Osteotomy',
+'Partial Knee Replacement',
+'Patellectomy',
+'Repair Collateral Ligament - Knee',
+'Repair Cruciate Ligament - Knee',
+'Repair Of Patellar Tendon - Primary',
+'Repair Of Patellar Tendon - Secondary',
+'Repair Recurrent Dislocating Patella',
+'Revision Knee Replacement',
+'Synovectomy Of Knee',
+'Total Knee Replacement',
+'Decompression Fasciotomy (Compartment Syndrome)',
+'Osteotomy - Proximal Tibia',
+'Repair Extensor Tendon Leg - Primary',
+'Repair Extensor Tendon Leg - Secondary',
+'Repair Flexor Tendon Leg - Primary',
+'Repair Flexor Tendon Leg - Secondary',
+'Tendon Lengthening',
+'Tibialis Anterior Transfer',
+'Excision Of Neuroma - Major Peripheral Nerves',
+'Lateral Popliteal Nerve Decompression',
+'Secondary Repair Of Nerve',
+'Suture Of Digital Nerve - Hand / Foot',
+'Suture Of Major Peripheral Nerves - Arm/Leg',
+'Suture Of Nerve Requiring Extensive Mobilisation',
+'Excision Of Joint, Not Elsewhere Classified',
+'Lower Limb - Above Knee - Plaster',
+'Lower Limb - Below Knee - Plaster',
+'Manipulation Of Joint',
+'Neurofasciotomy',
+'Removal Of Metal - Major',
+'Removal Of Metal - Minor',
+'Upper Limb - Above Elbow - Plaster',
+'Upper Limb - Below Elbow - Plaster',
+'Acromio-Clavicular - Open Reduction And Repair - Chronic',
+'Arthrodesis Of Shoulder',
+'Arthroplasty Excision',
+'Arthroscopy & Stabilisation Of Shoulder',
+'Arthroscopy Shoulder And Other Arthroscopic Procedure',
+'Arthroscopy, Decompression & Partial Acromioplasty',
+'Arthroscopy- Shoulder, Diagnostic',
+'Biceps Tendon Release Or Tenodesis',
+'Excision Outer End Of Clavicle',
+'Hemi Replacement Of Shoulder',
+'Removal Of Calcaneous Deposits Of Shoulder',
+'Repair Of Recurrent Dislocation',
+'Rotator Cuff Repair - Simple',
+'Rotator Cuff Repair With Acromioplasty',
+'Shoulder Arthroscopy, Decompression And Rotator Cuff Repair',
+'Total Replacement Of Shoulder',
+'Anterior Cervical Discectomy',
+'Anterior Cervical Discectomy + Fusion (1 Level) Including Foramen',
+'Anterior Cervical Discectomy + Fusion (2+ Level) Including Foramen',
+'Anterior Cervical Fusion With Internal Fixation',
+'Anterior Cervical Fusion, 1 Level (Dowel Or Similar), Lumbar - Sacral',
+'Anterior Cervical Fusion, 2 Or More Levels',
+'Anterior Decompression / Interbody Fusion 1 Level',
+'Anterior Decompression / Interbody Fusion Complex Procedures',
+'Anterior Endoscopic Spinal Fusion',
+'Anterior Lumbar Discectomy With Fusion 1 Level',
+'Anterior Lumbar Discectomy With Fusion 2 Or More Levels',
+'Cervical Rib Excision',
+'Coccygectomy',
+'Corporectomy',
+'Corporectomy With Fusion',
+'Decompression',
+'Decompression',
+'Decompression With Intertransverse Fusion',
+'Decompression With Pedicle Screws And Plates',
+'Discectomy 2 Or More Levels',
+'Fusion',
+'Lumbar Discectomy',
+'Occipital Cervical Fusion',
+'PLIF 1 Level',
+'PLIF 2+ Levels',
+'Posterior / Posterolateral Fusion - Lumbar - With Instrumentation And/Or',
+'Posterior / Posterolateral Fusion - Lumbar -With Instrumentation And/Or',
+'Posterior / Posterolateral Fusion - Lumbar -Without Instrumentation, 1',
+'Posterior / Posterolateral Fusion - Lumbar -Without Instrumentation, 2+',
+'Posterior C1-C2 Fusion',
+'Posterior Fusion - C Spine (Excl C1-2)',
+'Posterior Interbody Fusion With Disc Implant',
+'Posterior Thoracic Fusion 1-2 Levels',
+'Posterior Thoracic Fusion 3+ Levels With Instrumentation',
+'Spinal Stenosis Decompression - 1 Level',
+'Spinal Stenosis Decompression - 2+ Level',
+'Spine - Vertebral Bodies With Cord Involvement',
+'Thoracic Discectomy',
+'Trans Thoracic Fusion 1 Level',
+'Trans Thoracic Fusion 2 Or More Levels With Or Without Instrumentation',
+'Vertebra Excision / Replacement',
+'Amputation - Finger Or Thumb, Any Joint',
+'Arthrodesis - Wrist With Bone Graft',
+'Arthroscopy - Wrist',
+'Bilateral Carpal Tunnel',
+'Bone Graft - Metacarpals Or Phalanx',
+'Carpal Tunnel Release',
+'Endoscopic Release Of Carpal Tunnel',
+'Excision Of Ganglion - Wrist / Hand',
+'Excision Of Neuroma - Cutaneous Nerve',
+'Extensor Tendon Repair - Finger',
+'Extensor Tendon Repair - Hand',
+'Fusion - CMC Joint To Digits With Graft',
+'Fusion - CMC Joint To Thumb With Bone Graft',
+'Fusion - IP Joint',
+'Fusion - IP Joint With Graft',
+'Fusion - MCP Joint',
+'Fusion - Thumb',
+'Major Dupuytrens Contracture Release - Per Hand',
+'Minor Dupuytrens Contracture Release - Per Hand',
+'Open Tenotomy, Not Elsewhere Classified',
+'Primary Repair Of Flexor Tendon - Hand',
+'Repair Of Mallet Finger',
+'Replacement - IP Joint',
+'Replacement Arthroplasty In Thumb - Carpal Bones',
+'Replacement MCP Joint',
+'Replacement Of CMC Joint',
+'Secondary Repair Extensor Tendon - Wrist / Forearm',
+'Secondary Repair Flexor Tendon - Hand',
+'Secondary Repair Flexor Tendon - Wrist / Forearm',
+'Synovectomy - MCP Joint',
+'Tendon Transfer - Opponensplasty',
+'Tendon Transfer - Palm',
+'Tendon Transfer Radial Palsy',
+'Tenolysis Extensor Tendon - Hand / Finger',
+'Tenolysis Flexor Or Extensor Tendon - Wrist / Forearm',
+'Tenolysis Flexor Tendon - Finger / Palm',
+'Tenotomy - Hand / Finger (e.g. For Trigger Finger)',
+'Total Replacement - Wrist Joint',
+'Volkman's Contracture',
+'Atticotomy Plus Tympanoplasty',
+'Bilateral Grommet Insertion (Including Myringotomy)',
+'Cochlear Implant Surgery (Excluding The Cost Of The Appliance)',
+'Cortical Mastoidectomy Or Atticotomy',
+'Cortical Mastoidectomy Or Atticotomy Plus Myringoplasty',
+'Cortical Mastoidectomy Plus Tympanoplasty',
+'Endolympatic Sac, Decompression (With Or Without Shunt Insertion)',
+'Foreign Body Ear - Surgical Removal',
+'Meatoplasty',
+'Modified Radical Mastoidectomy Or Cat Plus Tympanoplasty',
+'Modified Radical Mastoidectomy Or Mastoidectomy With Posterior',
+'Myringoplasty - Transcanal',
+'Myringotomy',
+'Removal Of Grommets',
+'Removal Of Multiple Exostoses - Ear Canal',
+'Removal Solitary Osteoma Ear Canal',
+'Stapedectomy',
+'Tympanoplasty (Myringoplasty Postaural Or Endaural)',
+'Tympanoplasty plus Ossiculoplasty',
+'Tympanotomy (Cat)',
+'Tympanotomy - Plus Division Of Nerves Or Adhesions',
+'Tympanotomy - Unilateral',
+'Tympanotomy Plus Ossiculoplasty',
+'Tympanotomy Plus Repair Of Perilymph Fistula',
+'Unilateral Grommet Insertion (Including Myringotomy)',
+'Excision And Stapling Hypopharyngeal Diverticulum, Circo Pharyngeal',
+'Excision Of Thyro-Glossal Cyst Or Fistula',
+'Laryngoscopy - With Or Without Biopsy',
+'Micro-Laryngoscopy With Or Without Biopsy',
+'Myotomy',
+'Pharyngoscopy',
+'Pharyngoscopy With Biopsy',
+'Removal Of Pharyngeal Pouch',
+'Cautery Of Septum Or Turbinates',
+'Cautery Of Turbinates With Outfracture',
+'Conchal Cartilage Graft',
+'Examination Of Nasopharynx And Biopsy',
+'External Septo Rhinoplasty',
+'Foreign Body In Nose - Removal Of, Other Than Simple Probing',
+'Nasendoscopy',
+'Outfracture',
+'Reduction Of Nasal Fracture',
+'Septo-Rhinoplasty',
+'Septoplasty',
+'Septoplasty With Cautery Or Diathermy Of Turbinates, With Or Without',
+'Septoplasty With Trimming Of Turbinates',
+'Trimming Of Turbinates - Total - Bilateral',
+'Bilateral Antral Lavage',
+'Endoscopic Sinus Surgery',
+'Endoscopic Sinus Surgery - Bilateral',
+'Endoscopic Sinus Surgery - Bilateral And Septoplasty',
+'External Fronto-Ethmoidectomy',
+'Nasal Polyp Or Polypi - Bilateral',
+'Nasal Polyp Or Polypi - Unilateral',
+'Radical Antrostomy (Caldwell Luc)',
+'Radical Antrostomy - With Trans-Antral Ethmoidectomy (Jansen Horgan)',
+'Radical Fronto-Ethmoidectomy',
+'Sinoscopy',
+'Transnasal Ethmoidectomy',
+'Adenoidectomy',
+'Adenoidectomy And Cautery Of Turbinates',
+'Adenoidectomy With Bilateral Grommet Insertion',
+'Adenotonsillectomy With Grommet Insertion - Bilateral - Child',
+'Adenotonsillectomy With Grommet Insertion - Unilateral - Child',
+'Adenotonsillectomy, Grommets (Bilat) With Antral Lavage - Child',
+'Adenotonsillectomy, Grommets (Bilat) With Cautery Of Turbinates - Child',
+'Adenotonsillectomy, Grommets (Unilat) With Antral Lavage - Child',
+'Adenotonsillectomy, Grommets (Unilat) With Cautery Of Turbinates - Child',
+'Tonsillectomy Alone - Adult',
+'Tonsillectomy Alone - Child',
+'Tonsillectomy And Adenoidectomy - Child',
+'Tonsillectomy With Antral Lavage - Adult',
+'Tonsillectomy With Antral Lavage - Child',
+'Tonsillectomy With Cautery Of Turbinates - Adult',
+'Tonsillectomy With Cautery Of Turbinates - Child',
+'Tonsillectomy With Grommet Insertion - Bilateral - Child',
+'Tonsillectomy With Grommet Insertion - Unilateral - Child',
+'Tonsillectomy With Septoplasty',
+'Tonsillectomy, Adenoidectomy, Grommets With Antral Lavage',
+'Tonsillectomy, Grommets (Bilat) With Cautery Of Turbinates - Child',
+'Tonsillectomy, Grommets (Unilat) With Cautery Of Turbinates - Child',
+'Tonsillectomy, Grommets With Cautery Of Turbinates',
+'Uvulopalatopharngoplasty, Septoplasty And Reduction Of Turbinates',
+'Uvulopalatopharyngoplasty & Septoplasty',
+'Uvulopalatopharyngoplasty (Uppp)',
+'Bronchoscopy - Fibreoptic',
+'Bronchoscopy With Removal Of Foreign Body',
+'Oesophagoscopy',
+'Oesophagoscopy & E.U.A Nasopharynx',
+'Oesophagoscopy - With Biopsy',
+'Pan-Endoscopy - Including Laryngoscopy, Pharyngoscopy,',
+'Abdominal Aortic Aneurysm Replacement - Infrarenal - With Bifurcation',
+'Abdominal Aortic Aneurysm Replacement - Infrarenal - With Bifurcation',
+'Abdominal Aortic Aneurysm Replacement - Infrarenal - With Tube Graft',
+'Aorto-Iliac Bifurcation Graft (Occlusive Disease)',
+'Aorto-Iliac Endarterectomy',
+'Carotid Endarterectomy - Direct Closure',
+'Carotid Endarterectomy - Patch Closure',
+'Carotid Subclavian Graft',
+'Cervical Or Axillary Sympathectomy - Unilateral',
+'Cross-Over Graft (Fem - Fem)',
+'Embolectomy / Catheter Thrombectomy - Unilateral',
+'Femoral Endarterectomy',
+'Femoro-Popliteal Graft - Synthetic',
+'Femoro-Popliteal Graft - Vein',
+'Femoro-Tibial Graft - Synthetic',
+'Femoro-Tibial Graft - Vein',
+'Graft To Femoral Arteries',
+'Graft To Iliac Arteries',
+'Profundoplasty',
+'Renal Artery Aneurism Surgery',
+'Temporal Artery Biopsy',
+'Thoracoscopic Cervical Sympathectomy - Bilateral',
+'Thoracoscopic Cervical Sympathectomy - Unilateral',
+'Mohs Surgery (Including Closure) - 1 Layer',
+'Mohs Surgery (Including Closure) - 2 Layers',
+'Mohs Surgery (Including Closure) - 3+ Layers',
+'Plastic - Non Cosmetic Surgery - Over 2 Hours',
+'Plastic - Non Cosmetic Surgery - Up To 1 Hour',
+'Plastic - Non Cosmetic Surgery - Up To 1 Hour 30 Minutes',
+'Plastic - Non Cosmetic Surgery - Up To 2 Hours',
+'Plastic - Non Cosmetic Surgery - Up To 30 Minutes',
+'Revision Of Scar Of Other Site <= 7 Cms In Length (not cosmetic)',
+'Ankle',
+'Arterial Grafts',
+'Bone Anchor',
+'Bone Graft',
+'Breast (Post Mastectomy)',
+'Elbow',
+'Heart Valves',
+'Hepatic Stent',
+'Hip Prosthesis - Primary',
+'Hip Prosthesis - Revision',
+'Interuterine System (Mirena)',
+'Knee Prosthesis - Primary',
+'Knee Prosthesis - Revision',
+'Lacrimal Tubes -Unilateral',
+'Lens (as part of cataract surgery)',
+'Oesophageal Stent',
+'Other Prosthesis',
+'Post Mastectomy Tissue Expander',
+'Screws And Plates',
+'Shoulder Prosthesis',
+'Structural Prosthesis Instrumentation For Spinal Surgery',
+'Tissue Expander',
+'TVT Vaginal Tape',
+'Urological Stent',
+'Uterine Balloon',
+'Wave Length Fibres For Laser Prostatectomy',
+'Wrist',
+'Bladder - Repair Of Rupture',
+'Bladder Tumours, Suprapubic Diathermy Of',
+'Cystectomy Plus Bladder Reconstruction',
+'Cystolithotomy',
+'Cystoplasty',
+'Diverticulum Of Bladder, Excision Or Obliteration Of',
+'Incision Of Bladder Neck',
+'Total Or Radical Cystectomy With Ileal Conduit Diversion',
+'Total Or Radical Cystectomy With Replacement Cystoplasty Ectopic With Continent Stoma',
+'Total Or Radical Cystectomy With Replacement Cystoplasty Orthotopic',
+'Catheterisation',
+'Catheterisation - With Instillation Drugs ',
+'Cystoscopy With Urodynamic Assessment',
+'Diathermy Penile Warts Or Minor Genital Skin Lesion Excision',
+'Transrectal Ultrasound And Biopsy',
+'Urethral Dilatation',
+'Urodynamic Assessment',
+'Cystoscopic Destruction And Removal Bladder Calculus',
+'Cystoscopic Destruction And Removal Bladder Calculus / Litholopaxy',
+'Cystoscopy - Removal Ureteric Calculus Or Foreign Body',
+'Cystoscopy - With Biopsy, Ureteric Catheterization, Urethral Dilatation,',
+'Cystourethroscopy',
+'Cystourethroscopy - With Bladder Neck Incision Or Major Visual',
+'Endopyelotomy - Antegrade',
+'Endopyelotomy - Retrograde',
+'Endourology',
+'Flexible Cystourethroscopy Under Local Anaesthetic',
+'Flexible Cystourethroscopy Under Local Anaesthetic - With Biopsy,',
+'Laser Resection Of Bladder Tumour - Major',
+'Laser Resection Of Bladder Tumour - Minor',
+'Laser Resection Prostate',
+'Nephrostomy Tract Establishment By Urologist',
+'Percutaneous Nephroscopy With Additional Procedures, e.g. Lithotomy',
+'Removal Stent, Or Other Minor Procedure',
+'Transurethral Needle Ablation Of Prostate',
+'Transurethral Resection Bladder Tumour -Major >30Min',
+'Transurethral Resection Bladder Tumour -Minor <30Min',
+'Transurethral Resection Prostate',
+'TURP Including Cystoscopy',
+'Ureteric Catheterization, Urethral Dilatation, Removal Stent, Or Other Minor Procedures',
+'Ureteroscopy With Minor Additional Procedure',
+'Urethrotomy',
+'Colposuspension - Open',
+'Implantation Artificial Urinary Sphincter',
+'Needle Colposuspension, Endoscopic Bladder Neck Suspension Or Similar',
+'Pubo-Vaginal Sling Operation For Incontinence',
+'Laparoscopic Adrenalectomy',
+'Nephrectomy - Partial',
+'Nephrectomy - Radical',
+'Nephrectomy - Simple',
+'Nephrolithotomy - Major More Than 120 Minutes',
+'Nephrostomy - Open',
+'Nephrostomy - Percutaneous',
+'Nephroureterectomy',
+'Percutaneous Pyelolithotomy',
+'Pyelolithotomy',
+'Pyeloplasty',
+'Circumcision',
+'Dorsal Slit',
+'Penile Biopsy',
+'Penile Plication For Peyronies',
+'Penile Prosthesis - Inflatable',
+'Penile Prosthesis - Semi Rigid',
+'Penis - Amputation',
+'Priapism - Aspiration And Irrigation',
+'Priapism - Caverno-Femoral Shunt Or Similar',
+'Priapism - Intrapenile Shunts',
+'Priapism - Winter's Procedure',
+'Laparoscopic Pelvic Node Dissection',
+'Open Enucleation Prostate',
+'Pelvic Node Dissection',
+'Perineal Prostatectomy',
+'Prostate - Needle Biopsy',
+'Radical Retropubic Prostatectomy',
+'Radical Retropubic Prostatectomy -With Synchronous Node Dissection',
+'Bilateral Orchidopexy',
+'Bilateral Scrotal Orchidectomies',
+'Hydrocele Repair, Epididymal Cyst Excision, Spermatocele, Or Epididymectomy - Bilateral',
+'Hydrocele Repair, Epididymal Cyst Excision, Spermatocele, Or Epididymectomy - Unilateral',
+'Inguinal Herniotomy - Under 3 Years',
+'Orchiectomy - High Ligation',
+'Radical Orchiectomy',
+'Testicular Biopsy',
+'Testicular Prosthesis Insertion',
+'Testicular Torsion - Fixation',
+'Undescended Testis - Laparoscopy For',
+'Unilateral Orchidopexy',
+'Varicocele Repair- Inguinal',
+'Varicocele Repair- Laparaoscopic',
+'Insertion Of Double J Stent',
+'Reduction Ureteroplasty And Reimplant - 1st Stage',
+'Reduction Ureteroplasty And Reimplant - 2nd Stage',
+'Reimplantation Ureter - Bilateral',
+'Reimplantation Ureter - Unilateral',
+'Ureterolithotomy',
+'Ureterolysis',
+'Caruncle - Cauterisation',
+'Incontinence - Peri-Urethral Injection',
+'Meatoplasty (Urethra)',
+'Urethral Calculus',
+'Urethral Diverticulum',
+'Urethrectomy',
+'Urethroplasty - One Stage Trans Pubic',
+'Urethroplasty - Revision For Recurrent Stricture',
+'Urethroplasty - Stage 1',
+'Urethroplasty - Stage 2',
+'Urethroplasty Including Stricture Repair, Urethral Diverticulum',
 'Urethrotomy - Internal'
