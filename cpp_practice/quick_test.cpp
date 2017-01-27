@@ -16,37 +16,24 @@ ofstream write;
 
 int main()
 {
-	read.open("test.txt");
-	vector<string>lines;
-	int i = 1;
-	while (!read.eof())
+	string HEAD = "http://ma.brazzers.com/scene/view/";
+	vector<string>v;
+	string arr[20];
+	for (int i = 0; i < 20; i++)
+		cin >> arr[i];
+	for (int i = 0; i < 20; i++)
 	{
-		cout << "reading line " << i << endl;
-		string line = "";
-		getline(read, line);
-		lines.push_back(line);
-		i++;
+		string url = HEAD + arr[i] + "/";
+		v.push_back(url);
 	}
-	read.close();
-	i = 1;
-	for (vector<string>::iterator it = lines.begin(); it != lines.end(); it++, i++)
-	{
-		cout << "changing line " << i << endl;
-		(*it).insert(0, "\"");
-		(*it) += "\",";
 
-	}
-	i = 1;
 	write.open("result.txt");
 	write.clear();
-	for (vector<string>::iterator it = lines.begin(); it != lines.end(); it++, i++)
-	{
-		cout << "writimg line " << i << endl;
-		write << *it << endl;
 
-	}
+	for (int i = 0; i < v.size(); i++)
+		write << v[i] << endl;
+
 	write.close();
-	cout << "done!" << endl;
 
 	system("pause");
 	return 0;
